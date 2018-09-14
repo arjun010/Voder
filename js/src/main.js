@@ -5,6 +5,7 @@
     main = {};    
 
      var dataFileToUse = "dataFiles/csvs/cars.csv";
+     // var dataFileToUse = "dataFiles/csvs/baseball-DARPA.csv";
     // var dataFileToUse = "dataFiles/csvs/global500.csv";
     // var dataFileToUse = "dataFiles/csvs/euro.csv";
       // var dataFileToUse = "dataFiles/csvs/imdb-2016.csv";
@@ -20,6 +21,8 @@
 
         let mainDataMapFileUrl = "dataFiles/cars-mainDataMap.json";
         let metadataMapFileUrl = "dataFiles/cars-metadataMap.json";
+        // let mainDataMapFileUrl = "dataFiles/baseball-DARPA-mainDataMap.json";
+        // let metadataMapFileUrl = "dataFiles/baseball-DARPA-metadataMap.json";
         // let mainDataMapFileUrl = "dataFiles/global500-mainDataMap.json";
         // let metadataMapFileUrl = "dataFiles/global500-metadataMap.json";
         // let mainDataMapFileUrl = "dataFiles/euro-mainDataMap.json";
@@ -1133,8 +1136,7 @@
             return Math.floor(Math.random() * Math.floor(max));
         }
 
-        let itemAttributeToIgnore = "Model";
-        // let itemAttributeToIgnore = "Name";
+        let itemAttributeToIgnore = globalVars.itemAttribute;
 
         let randomDataFacts = [];
         let randomAttributeCombinations = [];

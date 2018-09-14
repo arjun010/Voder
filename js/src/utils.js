@@ -210,7 +210,8 @@
 
     utils.searchMatchingDataFacts = function(searchString){
         // let itemAttributeIgnoreString = "name";
-        let itemAttributeIgnoreString = "model";
+        // let itemAttributeIgnoreString = "model";
+        let itemAttributeIgnoreString = globalVars.itemAttribute.toLowerCase();
 
         let matchingDataFacts = [];
         let possibleDFTargetKeys = ['primaryTargetObject','secondaryTargetObject','sourceCategory','targetCategory','attributes','keywords'];

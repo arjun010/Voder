@@ -1,0 +1,57 @@
+{
+	"Player" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },
+    "Number_seasons" : {
+        "type":"quantitative"
+    },
+    "Games_played" : {
+        "type":"quantitative"
+    },
+    "At_bats" : {
+        "type":"quantitative"
+    },
+    "Runs" : {
+        "type":"quantitative"
+    },
+    "Hits" : {
+        "type":"quantitative"
+    },
+    "Doubles" : {
+        "type":"quantitative"
+    },
+    "Triples" : {
+        "type":"quantitative"
+    },
+    "Home_runs" : {
+        "type":"quantitative"
+    },
+    "RBIs" : {
+        "type":"quantitative"
+    },
+    "Walks" : {
+        "type":"quantitative"
+    },
+    "Strikeouts" : {
+        "type":"quantitative"
+    },
+    "Batting_average" : {
+        "type":"quantitative"
+    },
+    "On_base_pct" : {
+        "type":"quantitative"
+    },
+    "Slugging_pct" : {
+        "type":"quantitative"
+    },
+    "Fielding_ave" : {
+        "type":"quantitative"
+    },
+    "Position" : {
+        "type":"nominal"
+    },
+    "Hall_of_Fame" : {
+        "type":"ordinal"
+    }
+}
