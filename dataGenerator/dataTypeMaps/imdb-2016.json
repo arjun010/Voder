@@ -1,0 +1,45 @@
+{
+    "movie_title" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },
+    "duration" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "director_name" : {
+        "type":"nominal"
+    },
+    "gross" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "budget" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "imdb_score" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "movie_facebook_likes" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "actor_1_facebook_likes" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "primary_genre" : {
+        "type":"nominal"
+    },
+    "actor_1_name" : {
+        "type":"nominal"
+    },
+    "country" : {
+        "type":"nominal"
+    },
+    "content_rating" : {
+        "type":"nominal"
+    }
+}

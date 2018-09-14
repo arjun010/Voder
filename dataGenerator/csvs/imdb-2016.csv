@@ -1,0 +1,69 @@
+director_name,duration,gross,primary_genre,actor_1_name,movie_title,country,content_rating,budget,imdb_score,movie_facebook_likes,actor_1_facebook_likes
+Zack Snyder,183,330249062,Action,Henry Cavill,Batman v Superman: Dawn of Justice,USA,PG-13,250000000,6.9,197000,15000
+Anthony Russo,147,407197282,Action,Robert Downey Jr.,Captain America: Civil War,USA,PG-13,250000000,8.2,72000,21000
+Justin Lin,122,130468626,Action,Sofia Boutella,Star Trek Beyond,USA,PG-13,185000000,7.5,30000,998
+David Yates,110,124051759,Action,Christoph Waltz,The Legend of Tarzan,USA,PG-13,180000000,6.6,29000,11000
+Bryan Singer,144,154985087,Action,Jennifer Lawrence,X-Men: Apocalypse,USA,PG-13,178000000,7.3,54000,34000
+David Ayer,123,161087183,Action,Will Smith,Suicide Squad,USA,PG-13,175000000,6.9,80000,10000
+Jon Favreau,106,362645141,Adventure,Scarlett Johansson,The Jungle Book,UK,PG,175000000,7.8,65000,19000
+Roland Emmerich,120,102315545,Action,Vivica A. Fox,Independence Day: Resurgence,USA,PG-13,165000000,5.5,67000,890
+James Bobin,113,76846624,Adventure,Johnny Depp,Alice Through the Looking Glass,USA,PG,170000000,6.4,30000,40000
+Duncan Jones,123,46978995,Action,Dominic Cooper,Warcraft,USA,PG-13,160000000,7.3,89000,3000
+David Yates,110,124051759,Action,Christoph Waltz,The Legend of Tarzan,USA,PG-13,180000000,6.6,29000,11000
+Paul Feig,116,118099659,Action,Ed Begley Jr.,Ghostbusters,USA,PG-13,144000000,5.5,62000,783
+Alessandro Carloni,95,143523463,Action,J.K. Simmons,Kung Fu Panda 3,USA,PG,145000000,7.2,24000,24000
+Alex Proyas,126,31141074,Action,Gerard Butler,Gods of Egypt,USA,PG-13,140000000,5.5,24000,18000
+Steven Spielberg,117,52792307,Adventure,Mark Rylance,The BFG,UK,PG,140000000,6.8,27000,535
+Paul Greengrass,123,108521835,Action,Matt Damon,Jason Bourne,UK,PG-13,120000000,7.1,31000,13000
+Cedric Nicolas-Troyan,120,47952020,Action,Chris Hemsworth,The Huntsman: Winter's War,USA,PG-13,115000000,6.1,16000,26000
+Dave Green,112,81638674,Action,Stephen Amell,Teenage Mutant Ninja Turtles: Out of the Shadows,USA,PG-13,135000000,6.3,12000,5000
+Robert Schwentke,120,66002193,Action,Naomi Watts,Allegiant,USA,PG-13,110000000,5.8,12000,6000
+Jon M. Chu,129,64685359,Action,Daniel Radcliffe,Now You See Me 2,USA,PG-13,90000000,6.9,15000,11000
+Yarrow Cheney,87,323505540,Animation,Steve Coogan,The Secret Life of Pets,Japan,PG,75000000,6.8,36000,1000
+Clay Kaytis,97,107225164,Action,Peter Dinklage,The Angry Birds Movie,USA,PG,73000000,6.3,14000,22000
+Babak Najafi,99,62401264,Action,Gerard Butler,London Has Fallen,UK,R,60000000,5.9,28000,18000
+Tim Miller,108,363024263,Action,Ryan Reynolds,Deadpool,USA,R,58000000,8.1,117000,16000
+Rawson Marshall Thurber,107,126088877,Action,Dwayne Johnson,Central Intelligence,USA,PG-13,50000000,6.6,10000,12000
+Michael Bay,144,52822418,Action,Toby Stephens,13 Hours,USA,R,50000000,7.4,44000,769
+Gary Ross,139,20389967,Action,Matthew McConaughey,Free State of Jones,USA,R,50000000,6.7,10000,11000
+Ben Stiller,102,28837115,Comedy,Milla Jovovich,Zoolander 2,USA,PG-13,50000000,4.8,28000,14000
+Brad Furman,127,14946229,Biography,Joseph Gilgun,The Infiltrator,UK,R,25000000,7.3,0,788
+James Wan,134,102310175,Horror,Javier Botet,The Conjuring 2,USA,R,40000000,7.8,40000,1000
+Tim Story,102,90835030,Action,Olivia Munn,Ride Along 2,USA,PG-13,40000000,5.9,0,2000
+J Blakeson,112,34912982,Action,Chloë Grace Moretz,The 5th Wave,USA,PG-13,38000000,5.2,14000,17000
+Christian Ditter,110,46813366,Comedy,Alison Brie,How to Be Single,USA,R,38000000,6.1,15000,2000
+Nicholas Stoller,92,55291815,Comedy,Chloë Grace Moretz,Neighbors 2: Sorority Rising,USA,R,35000000,6,0,17000
+Ariel Vromen,113,14268533,Action,Gary Oldman,Criminal,UK,R,31500000,6.3,0,10000
+Paul Feig,116,118099659,Action,Ed Begley Jr.,Ghostbusters,USA,PG-13,144000000,5.5,62000,783
+Ben Falcone,99,63034755,Comedy,Peter Dinklage,The Boss,USA,R,29000000,5.3,0,22000
+Burr Steers,108,10907291,Action,Matt Smith,Pride and Prejudice and Zombies,USA,PG-13,28000000,5.8,73000,2000
+Jon Favreau,106,362645141,Adventure,Scarlett Johansson,The Jungle Book,UK,PG,175000000,7.8,65000,19000
+Jodie Foster,98,41008532,Crime,Julia Roberts,Money Monster,USA,R,27000000,6.7,0,8000
+Dexter Fletcher,106,15785632,Biography,Hugh Jackman,Eddie the Eagle,UK,PG-13,23000000,7.5,15000,20000
+Gavin O'Connor,98,1512815,Action,Natalie Portman,Jane Got a Gun,USA,R,25000000,5.8,0,20000
+Dexter Fletcher,106,15785632,Biography,Hugh Jackman,Eddie the Eagle,UK,PG-13,23000000,7.5,15000,20000
+Ethan Coen,106,29997095,Comedy,Scarlett Johansson,"Hail, Caesar! ",UK,PG-13,22000000,6.4,23000,19000
+Thea Sharrock,110,56154094,Drama,Sam Claflin,Me Before You,UK,PG-13,20000000,7.6,51000,11000
+Jon Lucas,100,55461307,Comedy,Mila Kunis,Bad Moms,USA,R,20000000,6.7,18000,15000
+Kevin Reynolds,107,36874745,Action,Peter Firth,Risen,USA,PG-13,20000000,6.3,21000,141
+Henry Joost,96,28876924,Adventure,Samira Wiley,Nerve,USA,PG-13,20000000,7.1,0,646
+John Hillcoat,115,12626905,Action,Kate Winslet,Triple 9,USA,R,20000000,6.3,0,14000
+Kirk Jones,94,59573085,Comedy,Nia Vardalos,My Big Fat Greek Wedding 2,USA,PG-13,18000000,6.1,19000,567
+Jeff Nichols,112,3707794,Adventure,Kirsten Dunst,Midnight Special,Greece,PG-13,18000000,6.7,0,4000
+Cyrus Nowrasteh,111,6462576,Drama,Clive Russell,The Young Messiah,USA,PG-13,18500000,5.4,0,241
+Jon Lucas,100,55461307,Comedy,Mila Kunis,Bad Moms,USA,R,20000000,6.7,18000,15000
+Peter Atencio,100,20566327,Action,Nia Long,Keanu,USA,R,15000000,6.4,0,826
+Patricia Riggen,109,61693523,Drama,Jennifer Garner,Miracles from Heaven,USA,PG,13000000,6.8,16000,3000
+Jaume Collet-Serra,86,54257433,Drama,Óscar Jaenada,The Shallows,USA,PG-13,17000000,6.8,0,619
+Dan Mazer,109,35537564,Comedy,Robert De Niro,Dirty Grandpa,USA,R,11500000,6,11000,22000
+James DeMonaco,109,78845130,Action,Frank Grillo,The Purge: Election Year,France,R,10000000,6.1,0,798
+William Brent Bell,97,35794166,Horror,Lauren Cohan,The Boy,USA,PG-13,10000000,6,20000,4000
+Jason Zada,93,26583369,Horror,Eoin Macken,The Forest,USA,PG-13,10000000,4.8,10000,533
+Nicolas Winding Refn,118,1330827,Horror,Keanu Reeves,The Neon Demon,France,R,7000000,7,0,18000
+Dan Trachtenberg,104,71897215,Drama,Bradley Cooper,10 Cloverfield Lane,USA,PG-13,15000000,7.3,33000,14000
+David F. Sandberg,81,56536016,Horror,Billy Burke,Lights Out,USA,PG-13,4900000,6.9,0,2000
+Michael Tiddes,92,11675178,Comedy,Fred Willard,Fifty Shades of Black,USA,R,5000000,3.5,11000,729
+Bille Woodruff,96,9658370,Comedy,Donald Faison,The Perfect Match,USA,R,5000000,4.5,740,927
+Warren P. Sonoda,105,123777,Action,Diahann Carroll,The Masked Saint,Canada,PG-13,3500000,4.7,0,426
+Enrique Begne,101,3105269,Action,Kevin Pollak,Compadres,Mexico,R,3000000,5,174,574
+Harold Cronk,120,20773070,Drama,Benjamin A. Onyango,God's Not Dead 2,USA,PG,5000000,3.4,0,634

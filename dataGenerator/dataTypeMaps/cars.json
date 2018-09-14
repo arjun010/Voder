@@ -1,0 +1,35 @@
+{
+    "Model" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },
+    "MPG" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Cylinders" : {
+        "type":"ordinal"
+    },
+    "Displacement" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Horsepower" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Weight" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Acceleration" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Year" : {
+        "type":"ordinal"
+    },
+    "Origin" : {
+        "type":"nominal"
+    }
+}

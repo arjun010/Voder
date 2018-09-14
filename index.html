@@ -1,0 +1,224 @@
+<html>
+<head>
+    <title>Voder</title>
+
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" type="text/css" href="css/annotations.css">
+    <!--<link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">-->
+    <link rel="stylesheet" href="css/jquery-ui.css">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <!--<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">-->
+
+
+    <!--<script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="https://code.jquery.com/ui/1.12.1/jquery-ui.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js"></script>-->
+    <script type="text/javascript" src="js/vendor/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="js/vendor/jquery-ui.min.js"></script>
+    <script src="js/vendor/popper.min.js"></script>
+    <script type="text/javascript" src="js/vendor/bootstrap.min.js"></script>
+    <script type="text/javascript" src="js/vendor/underscore-min.js"></script>
+    <script type="text/javascript" src="js/vendor/math.min.js"></script>
+    <script type="text/javascript" src="js/vendor/d3.v4.min.js"></script>
+
+    <script type="text/javascript" src="js/vendor/box.js"></script>
+
+    <!--<script type="text/javascript" src="dataFiles/cars.js"></script>-->
+    <!--<script type="text/javascript" src="dataFiles/global500.js"></script>-->
+</head>
+<body>
+    <div class="row">
+        <div id="headerPanel">
+            <span id="toolName">Voder</span>
+            <!--<span id="actionStepRegion">-->
+                <!--<button>Previous</button>-->
+                <!--<button>Next</button>-->
+            <!--</span>-->
+            <span id="bookmarksRegion">
+                <span class="bookmarksSpan" id="bookmarkedVisualizationsSpan">Visualizations (0)</span>
+                <span class="bookmarksSpan" id="bookmarkedFactsSpan">Facts (0)</span>
+                <!-- <button id="exportButton"><i class="fa fa-download"></i></button>
+                <a id="downloadAnchorElem" style="display:none"></a> -->
+                <i style="color:white;margin-left:3%;" class="fa fa-download"></i>
+            </span>
+            <span id="modeSelectionRegion">
+                <span class="modeSelectionSpan"><input type="radio" name="modeSelectionRadio" value="explore" checked="checked"> Explore</span>
+                <span class="modeSelectionSpan"><input type="radio" name="modeSelectionRadio" value="present"> Present</span>
+            </span>
+        </div>
+    </div>
+    <div class="row d-none" id="presentModeContainer">
+        <div id="presentModeOptions">
+            <table>
+                <tr>
+                    <td><b>Layout:</b></td>
+                    <td>
+                        <input type="radio" name="presentModeLayoutOption" value="slideShow" checked="checked"> Slides
+                        <input type="radio" name="presentModeLayoutOption" value="dashboard"> Dashboard
+                    </td>
+                </tr>
+                <tr>
+                    <td><b>Edit mode:</b></td>
+                    <td>
+                        <input type="radio" name="presentModeEditOption" value="on" checked="checked"> On
+                        <input type="radio" name="presentModeEditOption" value="off"> Off
+                    </td>
+                </tr>
+                <tr>
+                    <td><b>Fact Style:</b></td>
+                    <td>
+                        <input type="radio" name="presentModeFactStyleOption" value="bullet" checked="checked" disabled> Bullet
+                        <input type="radio" name="presentModeFactStyleOption" value="paragraph" disabled> Paragraph
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div id="presentModeContent"></div>
+    </div>
+    <div class="row" id="exploreModeContainer">
+        <div class="col-md-2" id='leftPanel'>
+            <div style="margin: 5%;">
+                <table style="color:black;">
+                    <tr>
+                        <td>X:</td>
+                        <td><select id="xAttrDropdown" class="specificationDropdown"></select></td>
+                    </tr>
+                    <tr>
+                        <td>Y:</td>
+                        <td><select id="yAttrDropdown" class="specificationDropdown"></select></td>
+                        <td><select id="yTransformDropdown" class="specificationDropdown">
+                            <option value=""></option>
+                            <option value="COUNT">COUNT</option>
+                            <option value="AVG">AVG</option>
+                            <option value="SUM">SUM</option>
+                            <option value="BIN">BIN</option>
+                        </select></td>
+                    </tr>
+                    <!--<tr>-->
+                        <!--<td>yTransform:</td>-->
+                        <!--<td><select id="yTransformDropdown" class="specificationDropdown">-->
+                            <!--<option value=""></option>-->
+                            <!--<option value="COUNT">COUNT</option>-->
+                            <!--<option value="AVG">AVG</option>-->
+                            <!--<option value="SUM">SUM</option>-->
+                        <!--</select></td>-->
+                    <!--</tr>-->
+                    <tr>
+                        <td>Color:</td>
+                        <td><select id="colorAttrDropdown" class="specificationDropdown"></select></td>
+                    </tr>
+                    <tr>
+                        <td>Size:</td>
+                        <td><select id="sizeAttrDropdown" class="specificationDropdown"></select></td>
+                        <td><select id="sizeTransformDropdown" class="specificationDropdown">
+                            <option value=""></option>
+                            <option value="COUNT">COUNT</option>
+                            <option value="AVG">AVG</option>
+                            <option value="SUM">SUM</option>
+                            <option value="BIN">BIN</option>
+                        </select></td>
+                    </tr>
+                    <tr>
+                        <td>Mark:</td>
+                        <td><select id="markTypeDropdown" class="specificationDropdown">
+                            <option value=""></option>
+                            <option value="arc">Arc</option>
+                            <option value="bar">Bar</option>
+                            <option value="point">Point</option>
+                            <option value="tick">Tick</option>
+                            <option value="box">Box</option>
+                        </select></td>
+                    </tr>
+                </table>
+                <button id="showMeButton" class="btn btn-default" style="margin-top: 5%;">Show Possible Visualizations</button>
+                <hr>
+                <span style="color: black;">Data fact tier:</span>
+                <select id="dataFactTierSelector">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                </select>
+            </div>
+        </div>
+        <div class="col-md-7" id='mainContainer'>
+            <table style="width: 100%;height:95%;table-layout: fixed;">
+                <tr style="height:50%;">
+                    <td style="width: 50%;"><div id="activeVisDiv" style="overflow: auto;width: 100%;height: 100%;"></div></td>
+                    <!--<td id="activeVisDiv" style="overflow: auto;"></td>-->
+                    <td style="width:50%;">
+                        <div id="acceptedDataFactsDiv" style="width: 100%;height: 90%;overflow: auto;"></div>
+                        <div id="manualFactEntryDiv" style="width: 100%;height: 7%;overflow: auto;margin:1%;">
+                            <input type="text" style="width: 85%;" id="manualFactInputBox">
+                            <button class="btn btn-default" id="manualFactSubmitButton"><i class="fa fa-plus"></i></button>
+                        </div>
+                    </td>
+                </tr>
+                <tr style="height:50%;">
+                    <td style="width: 50%;">
+                        <div id="activeVisRelatedDataFactsDiv" style="width: 100%;height: 100%;overflow: auto;"></div>
+                    </td>
+                    <td style="width: 50%;">
+                        <div id="activeAttributesRelatedDataFactsDiv" style="width: 100%;height: 100%;overflow: auto;"></div>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div class="col-md-3" id='rightPanel' style="overflow: auto;">
+            <!-- <button class="btn btn-default" id="imFeelingLuckyButton">I'm Feeling Lucky</button> -->
+            <div class="right-inner-addon">
+                <i class="fa fa-search" style="font-size: 20px;padding-right: 7%;"></i>
+                <input id="factQueryBox" type="text" class="form-control input-md" placeholder="Search for a fact in the dataset">
+            </div>
+            <div id="searchResultsDiv"></div>
+        </div>
+    </div>
+    <!--<div style="width:350px;height: 350px;border: 1px solid gray;margin: 10px;" id="visDiv"></div>-->
+
+    <!-- Modal for supported visualization specifications -->
+    <div class="modal fade" id="supportedVisualizationsModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="exampleModalLabel">Currently supported visualizations for listed attributes (<span id="partialSpecAttributes"></span>)</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="supportedVisualizationsModalBody"></div>
+                <!--<div class="modal-footer">-->
+                    <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>-->
+                <!--</div>-->
+            </div>
+        </div>
+    </div>
+
+    <!--Bookmarks Modal-->
+    <div class="modal fade" id="bookmarksModal" tabindex="-1" role="dialog" aria-labelledby="bookmarksModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="bookmarksModalLabel">Bookmarks:</h5>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">&times;</span>
+                    </button>
+                </div>
+                <div class="modal-body" id="bookmarksModalBody"></div>
+                <!--<div class="modal-footer">-->
+                <!--<button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>-->
+                <!--</div>-->
+            </div>
+        </div>
+    </div>
+</body>
+<script type="text/javascript" src="js/src/globalVars.js"></script>
+<script type="text/javascript" src="js/src/utils.js"></script>
+<script type="text/javascript" src="js/src/VisDataShaper.js"></script>
+<script type="text/javascript" src="js/src/VisRenderer.js"></script>
+<script type="text/javascript" src="js/src/VisAnnotator.js"></script>
+<script type="text/javascript" src="js/src/DashboardGenerator.js"></script>
+<script type="text/javascript" src="js/src/BookmarkRenderer.js"></script>
+<script type="text/javascript" src="js/src/main.js"></script>
+</html>

@@ -1,0 +1,379 @@
+.bar {
+    fill: steelblue;
+}
+
+.barStrip{
+    fill: steelblue;
+}
+
+#actionStepRegion{
+    padding-left: 8%;
+}
+
+#bookmarksRegion{
+    /*float: right;*/
+    /*margin-right: 2%;*/
+    /*margin-top: 0.5%;*/
+    padding-left: 10%;
+}
+
+#modeSelectionRegion{
+    padding-left: 25%;
+    color: white;
+    font-weight: bold;
+}
+
+.modeSelectionSpan{
+    padding-left: 0.5%;
+    padding-right: 0.5%;
+}
+
+.bookmarksSpan{
+    padding-left: 1%;
+    padding-right: 1%;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+#headerPanel{
+    height: 4%;
+    background-color:gray;
+    width: 100%;
+}
+#leftPanel,#rightPanel{
+    /*background-color:#38425d;*/
+    background-color:#ccc;
+    height: 96%;
+}
+
+#toolName{
+    margin: 2%;
+    font-size: 24px;
+    font-weight: bold;
+    color: white;
+}
+
+#mainContainer table td{
+    border:1px solid lightgray;
+}
+
+.specificationDropdown{
+    width: 100%;
+}
+
+select{
+    background-color: white;
+}
+
+.exploratoryFactsDiv{
+    margin:2% 2% 2% -1%;
+    background-color: white;
+    height: 40%;
+    overflow-y: auto;
+}
+
+.exploratoryVisDiv{
+    margin:2% 2% 2% -1%;
+    background-color: white;
+    height: 90%;
+    overflow-y: auto;
+}
+
+#searchResultsDiv{
+    background-color: white;
+    margin:2% 2% 2% -1%;
+    height: 85%;
+    overflow-y: auto;
+}
+
+#factQueryBox{
+    width:95%;
+    border:3px solid gray;
+    margin-top: 1%;
+}
+
+#showMeButton{
+    background-color: white;
+    border: 2px solid darkgray;
+    cursor: pointer;
+}
+
+#imFeelingLuckyButton{
+    margin-left:61%;
+    margin-top:1%;
+    margin-bottom:1%;
+    background-color: white;
+    border: 2px solid darkgray;
+    cursor: pointer;
+}
+
+div.accordion b{
+    font-weight: normal;
+}
+
+.dataFactSentence b{
+    font-weight: normal;
+}
+
+div.accordion {
+    background-color: #fbfbfb;
+    color: #444;
+    cursor: pointer;
+    padding: 5px;
+    width: 100%;
+    border: none;
+    /*text-align: left;*/
+    outline: none;
+    font-size: 15px;
+    transition: 0.4s;
+    border: 1px solid white;
+}
+
+div.accordion.active{
+    background-color: #e5e5e5;
+}
+
+div.accordion:hover {
+  background-color: #ccc;
+}
+
+div.accordion.bookmarkedDataFact .acceptButton{
+    /*background-color: rgba(0, 0, 0, 0.48);*/
+    /*border: 1px solid black;*/
+    color: #0eaeff;
+}
+
+div.accordion.manualDataFact{
+    background-color: #dddddd;
+}
+
+div.panel {
+    padding: 0 18px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+}
+
+.supportedVisThumbnail{
+    width: 250px;
+    height: 250px;
+    border: 1px solid gray;
+    float: left;
+    overflow: auto;
+}
+
+.supportedVisThumbnail svg text{
+    font-size: 10px;
+}
+
+.annotationOption{
+    margin: 1%;
+    padding: 0.5%;
+    float: left;
+    border: 1px solid lightgray;
+    cursor: pointer;
+}
+
+.annotationOption.activeAnnotation{
+    border: 1px solid red;
+}
+
+polyline{
+    opacity: .3;
+    stroke: black;
+    stroke-width: 2px;
+    fill: none;
+}
+
+.suggestedVisDiv{
+    width:175px;
+    height:175px;
+    border:1px solid lightgray;
+    float:left;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.suggestedVisDiv svg text{
+    font-size: 8px;
+}
+
+.box {
+  font: 10px sans-serif;
+}
+
+.box line,
+.box rect,
+.box circle {
+  fill: steelblue;
+  stroke: #000;
+  stroke-width: 1px;
+}
+
+.box .center {
+  stroke-dasharray: 3,3;
+}
+
+.box .outlier {
+  fill: white;
+  stroke: #000;
+  fill-opacity: 0;
+}
+
+.axis {
+  font: 12px sans-serif;
+}
+ 
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+ 
+.x.axis path { 
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+/*.nav-item{*/
+    /*opacity: 0.5;*/
+    /*background-color: white;*/
+/*}*/
+
+/*.nav-item.active{*/
+    /*opacity: 1;*/
+/*}*/
+
+.right-inner-addon {
+    position: relative;
+}
+.right-inner-addon input {
+    padding-right: 30px;
+}
+.right-inner-addon i {
+    position: absolute;
+    right: 0px;
+    padding: 10px 12px;
+    pointer-events: none;
+}
+
+.factText{
+    cursor: auto;
+}
+
+.factText.editing{
+    background-color: white;
+}
+
+#slideShowTable{
+    table-layout: fixed;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+
+#slideShowTable td{
+    border:1px solid lightgray;
+}
+
+#slideShowTable .visDivtd{
+    height: 450px;
+}
+
+#slideShowTable .dfDivtd{
+    vertical-align: top;
+}
+
+#slideShowTable .visDiv{
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+}
+
+#slideShowTable .dfDiv{
+    width: 100%;
+    height: 100%;
+}
+
+#slideShowTable div.accordion {
+    cursor: auto;
+}
+
+#presentModeOptions{
+    padding-left: 40%;
+    margin: 0.5%;
+}
+
+div.accordion.viewOnly{
+    background-color: white;
+}
+
+div.accordion.active.viewOnly, div.accordion.viewOnly:hover {
+    background-color: #ccc;
+}
+
+#dashboardTable{
+    table-layout: fixed;
+    width: 70%;
+    height: 60%;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+
+#dashboardTable td{
+    border:1px solid lightgray;
+    vertical-align: top;
+}
+
+.dashboardVisThumbnail{
+    width: 350px;
+    height: 350px;
+    float: left;
+}
+
+.dot{
+    stroke: steelblue;
+}
+
+#bookmarksTable{
+    table-layout: fixed;
+    width: 70%;
+    margin-left: 15%;
+    margin-top: 0.5%;
+}
+
+#bookmarksTable td{
+    border:1px solid lightgray;
+}
+
+#bookmarksTable .visDivtd{
+    height: 300px;
+    overflow: auto;
+}
+
+#bookmarksTable .dfDivtd{
+    vertical-align: top;
+}
+
+#bookmarksTable .visDiv{
+    width: 275px;
+    height: 300px;
+    overflow: hidden;
+}
+
+#bookmarksTable .dfDiv{
+    width: 100%;
+    height: 100%;
+}
+
+#bookmarksTable div.accordion {
+    cursor: auto;
+}
+
+#factStyleDisplayRow{
+    display: none;
+}

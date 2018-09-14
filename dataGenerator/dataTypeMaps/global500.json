@@ -1,0 +1,50 @@
+{
+    "Revenue" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Profits" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Assets" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "MarketValue" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Employees" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Industry" : {
+        "type":"nominal"
+    },
+    "Name" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },
+    "City" : {
+        "type":"nominal"
+    },
+    "State" : {
+        "type":"nominal"
+    },
+    "Country" : {
+        "type":"nominal"
+    },
+    "Region" : {
+        "type":"nominal"
+    },
+    "EconomicPole" : {
+        "type":"nominal"
+    },
+    "Ticker" : {
+        "type":"nominal"
+    },
+    "CeoTitle" : {
+        "type":"nominal"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "Goals" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Salary" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Age" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Foot" : {
+        "type":"nominal"
+    },
+    "Name" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },
+    "Position" : {
+        "type":"nominal"
+    },
+    "Club" : {
+        "type":"nominal"
+    },
+    "Country" : {
+        "type":"nominal"
+    }
+}

@@ -1,0 +1,156 @@
+.annotation.regressionLine{
+    stroke: black;
+    stroke-width: 1.5px;
+}
+
+.annotation.hullRegressionLine{
+    stroke: black;
+    stroke-width: 1.5px;
+}
+
+.annotation.hull {
+    fill: steelblue;
+    /*stroke: steelblue;*/
+    fill-opacity: 0.3;
+    /*stroke-opacity: 0.3;*/
+    /*stroke-width: 10px;*/
+    /*stroke-linejoin: round;*/
+}
+
+.annotation.quadrantLine{
+    stroke: black;
+    stroke-width: 1px;
+}
+
+.fadeAnnotation{
+    opacity: 0.2;
+}
+
+.bar.highlighted{
+    stroke: darkred;
+    stroke-width: 2px;
+}
+
+.bar.faded{
+    opacity: 0.2;
+}
+
+.stackedBarPortion.faded{
+    opacity: 0.2;
+}
+
+.stackedBarPortion.highlighted{
+    stroke: darkred;
+    stroke-width: 2px;
+}
+
+.barText.faded{
+    opacity: 0.2;
+}
+
+.barText.highlighted{
+    fill: darkred;
+    font-weight: bold;
+    font-size: large;
+}
+
+.pieSlice.highlighted{
+    stroke: darkred;
+    stroke-width: 2px;
+}
+
+.pieSlice.faded{
+    opacity: 0.2;
+}
+
+.pieSliceText.highlighted{
+    fill: darkred;
+    font-weight: bold;
+    font-size: large;
+}
+
+.pieSliceText.faded{
+    opacity: 0.2;
+}
+
+.xAxisLabel.faded{
+    opacity: 0.2;
+}
+
+.yAxisLabel.faded{
+    opacity: 0.2;
+}
+
+.xAxisLabel.highlighted{
+    fill: darkred;
+    font-weight: bold;
+    font-size: large;
+}
+
+.yAxisLabel.highlighted{
+    fill: darkred;
+    font-weight: bold;
+    font-size: large;
+}
+
+.barStrip.faded{
+    opacity: 0.1;
+}
+
+.barStrip.highlighted{
+    stroke: darkred;
+    stroke-width: 5px;
+    stroke-opacity: 0.2;
+}
+
+.barStrip.highlightedSameColor{
+    stroke-width: 5px;
+    stroke-opacity: 0.2;
+}
+
+circle.outlier.faded{
+    opacity: 0;
+}
+
+circle.outlier.highlighted{
+    stroke: darkred;
+    stroke-width: 3px;
+}
+
+rect.box.faded{
+    opacity: 0.2;
+}
+
+rect.box.highlighted{
+    stroke: darkred;
+    stroke-width: 4px;
+}
+
+.legendText.highlighted{
+    fill: darkred;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.legendText.faded{
+    opacity: 0.2;
+}
+
+circle.dot.highlightedSameColor{
+    stroke-width: 2px;
+    solid-opacity: 0.2;
+}
+
+circle.dot.highlighted{
+    stroke: darkred;
+    stroke-width: 2px;
+}
+
+circle.dot.faded{
+    opacity: 0.2;
+    stroke-opacity: 0.5;
+}
+
+.dataFactSentence:hover{
+    background-color: lightgray;
+}

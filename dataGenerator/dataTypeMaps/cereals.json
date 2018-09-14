@@ -1,0 +1,60 @@
+{
+    "Cereal" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },
+    "Manufacturer" : {
+        "type":"nominal"
+    },
+    "Type" : {
+        "type":"nominal"
+    },
+    "Calories" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Protein" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Fat" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Sodium" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Fiber" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Carbohydrates" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Sugars" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Shelf" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Potassium" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Vitamins" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Weight" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Cups" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    }
+}

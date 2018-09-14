@@ -1,0 +1,501 @@
+Name,Revenue,Profits,Assets,MarketValue,Employees,Industry,City,State,Country,Region,EconomicPole,Ticker,CeoTitle
+Pemex,73514,-44903.7,102830,0,130447,"Mining, Crude-Oil Production",Mexico City,0,Mexico,Latin America  ,Growth,  ,Chief Executive Officer
+Vale,25609,-12129,88492,0,74098,"Mining, Crude-Oil Production",Rio de Janeiro,0,Brazil,Latin America  ,Growth,VALE  ,"President, Chief Executive Officer"
+ENI,92985,-9742.8,146411,0,81954,Petroleum Refining,Rome,0,Italy,Europe,Developed ,E     ,Chief Executive Officer
+Petrobras,97314,-8450,230521,0,78470,Petroleum Refining,Rio de Janeiro,0,Brazil,Latin America  ,Growth,PBR   ,President
+ArcelorMittal,63578,-7946,76846,0,209404,Metals,Luxembourg,0,Luxembourg,Europe,Developed ,MT    ,"Chairman, Chief Executive Officer, General Manager"
+E.ON,129277,-7763.8,123493,0,56490,Energy,Essen,0,Germany,Europe,Developed ,EONGY ,"Chairman, Chief Executive Officer, Director"
+Deutsche Bank,52422,-7536.4,1769561,0,101104,Banks: Commercial and Savings,Frankfurt,0,Germany,Europe,Developed ,DB    ,Chief Executive Officer
+BP,225982,-6482,261832,0,79800,Petroleum Refining,London,0,Britain,Europe,Developed ,BP    ,"Group Chief Executive Officer, Director"
+General Electric,140389,-6126,492692,295174,333000,Industrial Machinery,Fairfield,Connecticut,U.S.,N. America,Developed ,GE    ,"Chairman, Chief Executive Officer"
+Vodafone,61690,-6058.7,192159,0,111684,Telecommunications,Newbury,0,Britain,Europe,Developed ,VOD   ,"Chief Executive, Director"
+Engie,77520,-5121.5,174507,0,154935,Energy,Courbevoie,0,France,Europe,Developed ,ENGIY ,"Chief Executive Officer, Director"
+U.S. Postal Service,68928,-5060,24014,0,556850,"Mail, Package, and Freight Delivery",Washington,District Of Columbia,U.S.,N. America,Developed ,  ,0
+Glencore,170497,-4964,128485,0,102388,"Mining, Crude-Oil Production",Baar,0,Switzerland,Europe,Developed ,GLNCY ,Chief Executive Officer
+Statoil,59895,-4652.1,109282,0,21581,Petroleum Refining,Stavanger,0,Norway,Europe,Developed ,STO   ,"President, Chief Executive Officer"
+ConocoPhillips,30935,-4428,97484,49869,15900,"Mining, Crude-Oil Production",Houston,Texas,U.S.,N. America,Developed ,COP   ,"Chairman, Chief Executive Officer"
+Toshiba,52032,-3831.8,48348,0,188000,"Electronics, Electrical Equip.",Tokyo,0,Japan,Asia,Developed ,TOSYY ,"Executive Officer, Representative, President, Chief Executive Officer"
+Credit Suisse Group,35173,-3060.1,820231,0,48200,Banks: Commercial and Savings,Zurich,0,Switzerland,Europe,Developed ,CS    ,Chief Executive Officer
+Royal Bank of Scotland,28984,-2435.3,1201666,0,93659,Banks: Commercial and Savings,Edinburgh,0,Britain,Europe,Developed ,RBS   ,Chief Executive Officer
+SNCF Mobilités,32497,-2416,40861,0,196152,Railroads,St. Denis,0,France,Europe,Developed ,  ,"Chairman, Chief Executive Officer"
+JX Holdings,62511,-2319.9,59838,0,26339,Petroleum Refining,Tokyo,0,Japan,Asia,Developed ,JXHLY ,Chairman of the Board
+Standard Chartered,20976,-2194,640483,0,84076,Banks: Commercial and Savings,London,0,Britain,Europe,Developed ,SCBFF ,"Group Chief Executive Officer, Director"
+China Minmetals,31883,-1679.8,54493,0,90653,Metals,Beijing,0,China,Asia,Growth,  ,Chairman
+Noble Group,66712,-1672,17074,0,1500,Trading,Hong Kong,0,China,Asia,Growth,NOBGY ,"Chief Executive Officer, Executive Director"
+Suncor Energy,23217,-1560.6,55819,0,13190,Petroleum Refining,"Calgary, Alberta",0,Canada,N. America,Developed ,SU    ,"President, Chief Executive Officer"
+LafargeHolcim,24514,-1526.9,73247,0,100956,"Building Materials, Glass",Jona,0,Switzerland,Europe,Developed ,HCMLY ,Chief Executive Officer
+Volkswagen,236600,-1519.7,414858,0,610076,Motor Vehicles and Parts,Wolfsburg,0,Germany,Europe,Developed ,VLKAY ,"Chairman of the Board, Sales & Marketing, Research & Development"
+JD.com,28847,-1492.3,13115,0,105963,Internet Services and Retailing,Beijing,0,China,Asia,Growth,JD    ,"Chairman of the Board, Chief Executive Officer"
+Deutsche Bahn,44818,-1469.8,60891,0,297202,Railroads,Berlin,0,Germany,Europe,Developed ,  ,"Chairman, Management Board, Chief Executive Officer, Secretary"
+Repsol,39419,-1361.1,68514,0,25917,Petroleum Refining,Madrid,0,Spain,Europe,Developed ,REPYY ,"Chief Executive Officer, Director"
+Mitsubishi,57689,-1244.4,132731,0,68247,Trading,Tokyo,0,Japan,Asia,Developed ,MSBHY ,"President, Chief Executive Officer, Director"
+Hyundai Heavy Industries,40883,-1193.7,42423,0,35195,Industrial Machinery,Ulsan,0,South Korea,Asia,Growth,0,"Vice Chairman, Chief Executive Officer, Chief Technology Officer"
+OMV Group,24989,-1173.6,35480,0,24124,Petroleum Refining,Vienna,0,Austria,Europe,Developed ,OMVKY ,"Chairman, Chief Executive Officer"
+Centrica,42734,-1141.3,27794,0,38848,Utilities,Windsor,0,Britain,Europe,Developed ,CPYYY ,"Chief Executive, Director"
+Sears Holdings,25146,-1129,11337,1635,178000,General Merchandisers,Hoffman Estates,Illinois,U.S.,N. America,Developed ,SHLD  ,"Chairman of the Board, Chief Executive Officer"
+Rio Tinto Group,34829,-866,91564,0,54938,"Mining, Crude-Oil Production",London,0,Britain,Europe,Developed ,RIO   ,Chief Executive Officer
+Aluminum Corp. of China,37996,-850.7,74973,0,133799,Metals,Beijing,0,China,Asia,Growth,  ,"Chairman of the Board, Chief Executive Officer"
+Mitsui,39647,-694.8,97086,0,43611,Trading,Tokyo,0,Japan,Asia,Developed ,MITSY ,"Representative Director, President, Chief Executive Officer"
+Halliburton,23633,-671,36942,30660,65000,"Oil and Gas Equipment, Services",Houston,Texas,U.S.,N. America,Developed ,HAL   ,"Chairman of the Board, President, Chief Executive Officer"
+Onex,22104,-573,35810,0,144000,Semiconductors and Other Electronic Components,"Toronto, Ontario",0,Canada,N. America,Developed ,ONEXF ,"Chief Executive Officer, Chairman of the Board"
+China Nonferrous Metal Mining (Group),27189,-462.9,19332,0,51263,"Mining, Crude-Oil Production",Beijing,0,China,Asia,Growth,  ,President
+Shaanxi Yanchang Petroleum,31755,-367.3,45024,0,135225,"Mining, Crude-Oil Production",Xi'an,0,China,Asia,Growth,  ,"General Manager, Director"
+Lotte Shopping,25758,-338.8,34712,0,26030,General Merchandisers,Seoul,0,South Korea,Asia,Growth,0,Chief Executive Officer
+Alcoa,22534,-322,36528,12596,60000,Metals,New York,New York,U.S.,N. America,Developed ,AA    ,"Chairman, Chief Executive Officer"
+Shougang Group,21514,-320.4,67291,0,114807,Metals,Beijing,0,China,Asia,Growth,  ,"Chairman, Chief Executive Officer"
+Idemitsu Kosan,26147,-299.8,21375,0,9203,Petroleum Refining,Tokyo,0,Japan,Asia,Developed ,IDKOY ,Chief Executive Officer
+Shanxi LuAn Mining Group,28642,-277.2,29742,0,99739,"Mining, Crude-Oil Production",Changzhi,0,China,Asia,Growth,  ,"Chairman, General Manager"
+Hanwha,36590,-252,124219,0,46000,"Insurance: Life, Health (stock)",Seoul,0,South Korea,Asia,Growth,0,"Chairman, Chief Executive Officer, Secretary"
+Shaanxi Coal & Chemical Industry,30331,-247,67314,0,132007,"Mining, Crude-Oil Production",Xi'an,0,China,Asia,Growth,  ,"General Manager, Top Executive"
+Jizhong Energy Group,37817,-228,31673,0,128372,"Mining, Crude-Oil Production",Xingtai,0,China,Asia,Growth,  ,"Chairman, President"
+HeSteel Group,45266,-203.6,53712,0,128798,Metals,Shijiazhuang,0,China,Asia,Growth,  ,"Chairman, President"
+Datong Coal Mine Group,31958,-165.6,39738,0,164365,"Mining, Crude-Oil Production",Datong,0,China,Asia,Growth,  ,Chairman of the Board
+Shanxi Jincheng Anthracite Coal Mining Group,27572,-153.9,32624,0,145890,"Mining, Crude-Oil Production",Jincheng,0,China,Asia,Growth,  ,Chairman
+China National Building Materials Group,31706,-142.1,66627,0,171690,"Building Materials, Glass",Beijing,0,China,Asia,Growth,0,President
+AmerisourceBergen,135962,-134.9,27736,19511,17000,Wholesalers: Health Care,Chesterbrook,Pennsylvania,U.S.,N. America,Developed ,ABC   ,"President, Chief Executive Officer, Director"
+ChemChina,41412,-131.8,57366,0,129836,Chemicals,Beijing,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+Lenovo Group,44912,-128.1,24933,0,60000,"Computers, Office Equipment",Hong Kong,0,China,Asia,Growth,LNVGY ,"Chairman, Chief Executive Officer, Senior Director"
+Finatis,51960,-79.9,45340,0,330433,Food and Drug Stores,Paris,0,France,Europe,Developed ,0,"Chairman, Chief Executive Officer, Secretary"
+RWE,51617,-79.9,86173,0,59762,Utilities,Essen,0,Germany,Europe,Developed ,RWEOY ,Chief Executive Officer
+Telecom Italia,26569,-79.9,77372,0,82094,Telecommunications,Milan,0,Italy,Europe,Developed ,TI    ,Chief Executive Officer
+Barclays,49490,-74.9,1650561,0,129400,Banks: Commercial and Savings,London,0,Britain,Europe,Developed ,BCS   ,Group Chief Executive Officer
+Jiangxi Copper,31555,-57.1,17195,0,26258,"Mining, Crude-Oil Production",Guixi,0,China,Asia,Growth,  ,"Chairman, Party Secretary, Senior Economist"
+Sinochem,60656,-55.1,54614,0,53432,Trading,Beijing,0,China,Asia,Growth,  ,Chairman
+CPC,24362,-44.6,22593,0,14685,Petroleum Refining,Taipei,0,Taiwan,Asia,Growth,  ,President
+Yangquan Coal Industry Group,28310,-29.5,31669,0,155306,"Mining, Crude-Oil Production",Yangquan,0,China,Asia,Growth,  ,Chief Executive Officer
+Shandong Energy Group,25136,-27.7,41122,0,196435,"Mining, Crude-Oil Production",Jinan ,0,China,Asia,Growth,  ,"Chairman, Chief Executive Officer"
+Greenergy Fuels Holdings,22479,3.9,2604,0,594,Energy,London,0,Britain,Europe,Developed ,  ,Chief Executive Officer
+Adecco Group,24415,8.9,10564,0,32000,Temporary Help,Glattbrugg,0,Switzerland,Europe,Developed ,AHEXY ,Chief Executive Officer
+AEON,67758,49.8,72886,0,265736,General Merchandisers,Chiba,0,Japan,Asia,Developed ,AONNY ,"President, Chief Executive Officer"
+INTL FCStone,34693,55.7,5070,503,1231,Diversified Financials,New York,New York,U.S.,N. America,Developed ,INTL  ,"Chief Executive Officer, Director"
+Shanxi Coking Coal Group,31039,76,40194,0,218602,"Mining, Crude-Oil Production",Taiyuan,0,China,Asia,Growth,  ,"Vice Chairman, President"
+LG Electronics,49996,110,30977,0,77000,"Electronics, Electrical Equip.",Seoul,0,South Korea,Asia,Growth,????  ,"Vice Chairman, Chief Executive Officer, Director"
+Plains GP Holdings,23152,118,24142,5423,5400,Pipelines,Houston,Texas,U.S.,N. America,Developed ,PAGP  ,"Chairman, Chief Executive Officer"
+Rolls-Royce Holdings,20969,126.8,32899,0,50500,Aerospace and Defense,London,0,Britain,Europe,Developed ,RYCEY ,"Chief Executive Officer, Director"
+Air France-KLM Group,28910,130.9,25347,0,93300,Airlines,Paris,0,France,Europe,Developed ,AFLYY ,"Chairman, Chief Executive Officer"
+Energie Baden-Württemberg,23480,138.5,41447,0,18763,Utilities,Karlsruhe,0,Germany,Europe,Developed ,0,"Chairman, Chief Executive Officer, Secretary"
+Jiangsu Shagang Group,32751,141.7,25068,0,36710,Metals,Zhangjiagang,0,China,Asia,Growth,  ,President
+POSCO,51752,151.7,68880,0,34327,Metals,Seoul,0,South Korea,Asia,Growth,PKX   ,"Chief Executive Officer, Director"
+Community Health Systems,22678,158,26861,2087,123000,Health Care: Medical Facilities,Franklin,Tennessee,U.S.,N. America,Developed ,CYH   ,"Chairman, Chief Executive Officer"
+Tewoo Group,64232,160.2,35187,0,17860,Trading,Tianjin,0,China,Asia,Growth,  ,Chairman
+Rajesh Exports,25237,162.9,3435,0,358,Trading,Bengaluru,0,India,South Asia,Growth,0,"Executive Chairman, Chief Executive Officer"
+Rite Aid,30737,165.5,11277,0,70580,Food and Drug Stores,Camp Hill,Pennsylvania,U.S.,N. America,Developed ,RAD   ,0
+US Foods Holding,23128,167.5,9239,0,25000,Wholesalers: Food and Grocery,Rosemont,Illinois,U.S.,N. America,Developed ,USFD  ,0
+VTB Bank,22449,175.1,187170,0,92882,Banks: Commercial and Savings,Moscow,0,Russia,Russia / CIS ,Growth,0,"President, Chief Executive Officer, Human Resources"
+China Electronics,31537,176.3,38158,0,127875,"Electronics, Electrical Equip.",Beijing,0,China,Asia,Growth,  ,"President, Director"
+China Datang,26440,183.5,112349,0,96204,Energy,Beijing,0,China,Asia,Growth,  ,President
+World Fuel Services,30380,186.9,4549,3440,4700,Wholesalers: Diversified,Miami,Florida,U.S.,N. America,Developed ,INT   ,"President, Chief Executive Officer"
+Enbridge,26436,196.3,60958,0,8652,Pipelines,"Calgary, Alberta",0,Canada,N. America,Developed ,ENB   ,"President, Chief Executive Officer"
+Tesco,87633,208.7,61176,0,357835,Food and Drug Stores,Welwyn Garden City,0,Britain,Europe,Developed ,TSCDY ,Group Chief Executive Officer
+Louis Dreyfus,55733,211,18592,0,17555,Food Production,Rotterdam,0,Netherlands,Europe,Developed ,  ,Chief Executive Officer
+Ingram Micro,43026,215.1,12307,5328,27700,Wholesalers: Electronics and Office Equipment,Irvine,California,U.S.,N. America,Developed ,IM    ,"President, Chief Executive Officer"
+Wuchan Zhongda Group,29052,220.3,11237,0,18218,Trading,Hangzhou,0,China,Asia,Growth,  ,"Vice Chairman, President"
+Phoenix Pharmahandel,25642,223.7,8409,0,24842,Wholesalers: Health Care,Mannheim,0,Germany,Europe,Developed ,  ,Chief Executive Officer
+HNA Group,29562,234.9,95339,0,175600,Airlines,Haikou City,0,China,Asia,Growth,  ,Chief Executive Officer
+Medipal Holdings,25224,256.3,13324,0,14697,Wholesalers: Health Care,Tokyo,0,Japan,Asia,Developed ,MAHLY ,"President, Chief Executive Officer"
+New York Life Insurance,45891,256.6,271668,0,11463,"Insurance: Life, Health (Mutual)",New York,New York,U.S.,N. America,Developed ,  ,"Chairman, President, Chief Executive Officer"
+COFCO,64516,265.5,70682,0,121767,Trading,Beijing,0,China,Asia,Growth,  ,Chairman
+Tech Data,26380,265.7,6358,2694,9000,Wholesalers: Electronics and Office Equipment,Clearwater,Florida,U.S.,N. America,Developed ,TECD  ,"Chief Executive Officer, Director"
+Compal Electronics,26695,273.6,9985,0,72796,"Computers, Office Equipment",Taipei,0,Taiwan,Asia,Growth,0,"President, Chief Executive Officer"
+Edeka Zentrale,32017,277.4,6791,0,346800,Wholesalers: Food and Grocery,Hamburg,0,Germany,Europe,Developed ,  ,"Chairman, Chief Executive Officer, Secretary"
+JFE Holdings,28586,280.4,37684,0,59460,Metals,Tokyo,0,Japan,Asia,Developed ,JFEEF ,"President, Chief Executive Officer"
+Korea Gas,23039,282.3,36156,0,3412,Energy,Daegu,0,South Korea,Asia,Growth,0,Chief Executive Officer
+Zhejiang Geely Holding Group,26304,286.6,24839,0,45720,Motor Vehicles and Parts,Hangzhou,0,China,Asia,Growth,  ,Chairman
+State Power Investment,30616,289.4,119163,0,126878,Energy,Beijing,0,China,Asia,Growth,  ,President
+Alfresa Holdings,21461,291.3,11154,0,11788,Wholesalers: Health Care,Tokyo,0,Japan,Asia,Developed ,0,"Representative Director, President"
+Unipol,21478,301.5,97512,0,13242,"Insurance: Life, Health (stock)",Bologna,0,Italy,Europe,Developed ,UFGSY ,"Chief Executive Officer, General Manager"
+Wolseley,21720,332.4,11674,0,38464,Wholesalers: Diversified,Zug,0,Switzerland,Europe,Developed ,WOSYY ,"Group Chief Executive Officer, Director"
+China National Aviation Fuel Group,22101,334.3,4875,0,11481,Wholesalers: Diversified,Beijing,0,China,Asia,Growth,  ,"President, Group Corporation"
+Wm. Morrison Supermarkets,24522,337.7,13189,0,82992,Food and Drug Stores,Bradford,0,Britain,Europe,Developed ,MRWSY ,Chief Executive Officer
+ThyssenKrupp,48981,353.8,39838,0,154906,Metals,Essen,0,Germany,Europe,Developed ,TKAMY ,"Chairman, Chief Executive Officer"
+Centene,22795,355,7339,10464,18200,Health Care: Insurance and Managed Care,St. Louis,Missouri,U.S.,N. America,Developed ,CNC   ,"Chairman, President, Chief Executive Officer"
+Staples,21059,379.2,10172,7123,58963,Specialty Retailers,Framingham,Massachusetts,U.S.,N. America,Developed ,SPLS  ,"Chairman, Chief Executive Officer"
+China Metallurgical Group,35314,383.8,54555,0,136104,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,"Vice Chairman, President"
+Mitsubishi Chemical Holdings,31846,386.9,36141,0,68988,Chemicals,Tokyo,0,Japan,Asia,Developed ,MTLHY ,"President, Chief Executive Officer"
+TUI,22914,389.8,15722,0,76036,Miscellaneous,Hanover,0,Germany,Europe,Developed ,TUIFY ,Chief Executive Officer
+Baosteel Group,36608,398.5,81516,0,124310,Metals,Shanghai,0,China,Asia,Growth,  ,President
+Delhaize Group,27070,406,14155,0,116646,Food and Drug Stores,Brussels,0,Belgium,Europe,Developed ,DEG   ,"President, Chief Executive Officer"
+George Weston,36683,412.2,27217,0,196000,Food and Drug Stores,"Toronto, Ontario",0,Canada,N. America,Developed ,WNGRF ,"President, Chief Executive Officer"
+Achmea,25763,424.9,100926,0,15412,"Insurance: Life, Health (Mutual)",Zeist,0,Netherlands,Europe,Developed ,  ,Chief Executive Officer
+Coop Group,26916,432.4,17642,0,67877,Food and Drug Stores,Basel,0,Switzerland,Europe,Developed ,  ,Chief Executive Officer
+China State Shipbuilding,30191,437.9,41204,0,71257,Industrial Machinery,Beijing,0,China,Asia,Growth,  ,"Chairman, Secretary"
+Sinopharm,44325,443.4,35156,0,104464,Pharmaceuticals,Beijing,0,China,Asia,Growth,  ,President
+Flextronics International,24419,444.1,12385,0,200000,Semiconductors and Other Electronic Components,Singapore,0,Singapore,Asia,Developed ,FLEX  ,"Chief Executive Officer, Director"
+Bouygues,36074,447,36752,0,120254,"Engineering, Construction",Paris,0,France,Europe,Developed ,BOUYF ,"Chairman, Chief Executive Officer"
+Ultrapar Holdings,22695,451,5301,0,14597,Energy,São Paulo,0,Brazil,Latin America  ,Growth,UGP   ,Chief Executive Officer
+Xinxing Cathay International,32567,455.7,19554,0,64487,Metals,Beijing,0,China,Asia,Growth,  ,President
+Arrow Electronics,23282,497.7,13022,5902,18500,Wholesalers: Electronics and Office Equipment,Centennial,Colorado,U.S.,N. America,Developed ,ARW   ,"Chairman, Chief Executive Officer, President"
+Guangzhou Automobile Industry Group,34440,497.9,26847,0,67426,Motor Vehicles and Parts,Guangzhou,0,China,Asia,Growth,  ,Chairman
+Veolia Environnement,27693,499.4,38982,0,158780,Utilities,Paris,0,France,Europe,Developed ,VEOEY ,"Chief Executive Officer, Chairman, Chief Executive Officer"
+Liberty Mutual Insurance Group,39450,514,121707,0,50000,Insurance: Property and Casualty (Stock),Boston,Massachusetts,U.S.,N. America,Developed ,  ,"President, Chief Executive Officer"
+Marubeni,60810,518.6,63336,0,39914,Trading,Tokyo,0,Japan,Asia,Developed ,MARUY ,"President, Chief Executive Officer"
+China General Technology,27667,522.5,21471,0,39829,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,"Director, President"
+Mitsubishi Heavy Industries,33709,531.7,48868,0,83932,Industrial Machinery,Tokyo,0,Japan,Asia,Developed ,MHVYF ,"President, Chief Executive Officer"
+China Energy Engineering Group,33223,539.9,41840,0,169823,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,Chairman
+Sumitomo Life Insurance,31100,550.8,282942,0,42115,"Insurance: Life, Health (Mutual)",Osaka,0,Japan,Asia,Developed ,  ,"Chief Executive Officer, President"
+China United Network Communications,44085,552.4,94758,0,231299,Telecommunications,Shanghai,0,China,Asia,Growth,  ,"Chairman, Chief Executive Officer"
+Quanta Computer,31734,561.7,16186,0,90167,"Computers, Office Equipment",Taoyuan,0,Taiwan,Asia,Growth,0,"Vice Chairman, President"
+Avnet,27925,571.9,10800,5815,18800,Wholesalers: Electronics and Office Equipment,Phoenix,Arizona,U.S.,N. America,Developed ,AVT   ,"Chief Executive Officer, Director"
+NEC,23500,572.7,22188,0,98726,Information Technology Services,Tokyo,0,Japan,Asia,Developed ,NIPNF ,"President, Chief Executive Officer"
+Auchan Holding ,60158,574.6,38696,0,337737,Food and Drug Stores,Croix,0,France,Europe,Developed ,  ,"Chairman, Management Group, General Manager, Auchan Retail"
+Randstad Holding ,21319,575.5,7939,0,29750,Temporary Help,Diemen,0,Netherlands,Europe,Developed ,RANJY ,"Chairman, Chief Executive Officer"
+Nationwide,40222,580.7,185306,0,34032,Insurance: Property and Casualty (Mutual),Columbus,Ohio,U.S.,N. America,Developed ,  ,"Chief Executive Officer, Nationwide Mutual Insurance Company"
+PTT,59196,582.2,60439,0,24790,Petroleum Refining,Bangkok,0,Thailand,Asia,Growth,0,"President, Chief Executive Officer"
+Amazon.com,107006,596,65444,279511,230800,Internet Services and Retailing,Seattle,Washington,U.S.,N. America,Developed ,AMZN  ,"President, Chief Executive Officer, Chairman of the Board"
+CEFC China Energy,41845,603.2,14201,0,23055,Energy,Shanghai,0,China,Asia,Growth,  ,President
+Poste Italiane,34098,612.3,190993,0,142798,"Insurance: Life, Health (stock)",Rome,0,Italy,Europe,Developed ,  ,"Chief Executive Officer, Managing Director"
+Sumitomo,33409,621,69566,0,66860,Trading,Tokyo,0,Japan,Asia,Developed ,SSUMY ,"President, Chief Executive Officer"
+Sysco,48681,686.8,17989,26384,51700,Wholesalers: Food and Grocery,Houston,Texas,U.S.,N. America,Developed ,SYY   ,"President, Chief Executive Officer"
+SSE,43334,693.5,31885,0,21118,Utilities,Perth,0,Britain,Europe,Developed ,SSEZY ,Chief Executive Officer
+La Poste,25563,704.4,253105,0,245424,"Mail, Package, and Freight Delivery",Paris,0,France,Europe,Developed ,  ,Chief Executive Officer
+J. Sainsbury,35391,709.2,24392,0,108300,Food and Drug Stores,London,0,Britain,Europe,Developed ,JSAIY ,"Chief Executive Officer, Director"
+Royal Philips,28689,715.5,33646,0,112959,"Electronics, Electrical Equip.",Amsterdam,0,Netherlands,Europe,Developed ,PHG   ,"President, Chief Executive Officer"
+Fujitsu,39477,722.7,28709,0,156515,Information Technology Services,Tokyo,0,Japan,Asia,Developed ,FJTSY ,"President, Director"
+Pegatron,38239,750.2,14497,0,196251,"Computers, Office Equipment",Taipei,0,Taiwan,Asia,Growth,0,"President, Chief Executive Officer"
+Hindustan Petroleum,28829,751.8,13242,0,10538,Petroleum Refining,Mumbai,0,India,South Asia,Growth,0,"Chairman, Managing Director, Chief Executive Officer"
+PKN ORLEN Group,23438,752.7,12195,0,19932,Petroleum Refining,Plock,0,Poland,Europe,Growth,  ,"President, Chief Executive Officer"
+Sumitomo Electric Industries,24432,758,24407,0,240865,Motor Vehicles and Parts,Osaka,0,Japan,Asia,Developed ,SMTOY ,"President, Chief Executive Officer"
+Sinomach,35134,766.7,40260,0,116722,Industrial Machinery,Beijing,0,China,Asia,Growth,  ,Chairman
+Metro,71266,769.4,30867,0,203773,Food and Drug Stores,Düsseldorf,0,Germany,Europe,Developed ,MTTRY ,Chairman
+China Huaneng Group,43224,774.5,149670,0,142910,Energy,Beijing,0,China,Asia,Growth,  ,President
+CHS,34582,781,15228,0,12511,Food Production,Inver Grove Heights,Minnesota,U.S.,N. America,Developed ,  ,"President, Chief Executive Officer"
+WH Group,21209,786,14301,0,105000,Food Consumer Products,Hong Kong,0,China,Asia,Growth,WGHPY ,"Chairman, Chief Executive Officer"
+Mapfre Group,24795,786.2,68962,0,38405,Insurance: Property and Casualty (Stock),Madrid,0,Spain,Europe,Developed ,MPFRY ,"Chairman, Chief Executive Officer, Vice President"
+Aegon,39062,788.7,453135,0,31530,"Insurance: Life, Health (stock)",The Hague,0,Netherlands,Europe,Developed ,AEG   ,"Chairman, Chief Executive Officer"
+Bunge,43455,791,17922,0,33000,Food Production,White Plains,New York,U.S.,N. America,Developed ,BG    ,0
+Maersk Group,40308,791,62408,0,88355,Shipping,Copenhagen,0,Denmark,Europe,Developed ,AMKBY ,"Group Chief Executive Officer, Chief Executive Officer, Maersk Line"
+China North Industries Group,61621,803.1,51870,0,241309,Aerospace and Defense,Beijing,0,China,Asia,Growth,  ,"President, Director"
+CRH,26218,803.1,34766,0,78106,"Building Materials, Glass",Dublin,0,Ireland,Europe,Developed ,CRH   ,Group Chief Executive Officer
+ACS,38741,804.6,38321,0,127362,"Engineering, Construction",Madrid,0,Spain,Europe,Developed ,ACSAF ,"Chairman, Chief Executive Officer, Executive Director"
+Aisin Seiki,27015,807.8,25492,0,99389,Motor Vehicles and Parts,Kariya,0,Japan,Asia,Developed ,ASEKY ,"President, Chief Executive Officer"
+Sodexo,22942,810.4,16220,0,422844,Food Services,Issy-les-Moulineaux,0,France,Europe,Developed ,SDXAY ,"Chief Executive Officer, Director"
+Talanx,35379,814.2,165928,0,20334,Insurance: Property and Casualty (Stock),Hanover,0,Germany,Europe,Developed ,0,Chief Executive Officer
+Northwestern Mutual,28111,815,238472,0,5530,"Insurance: Life, Health (Mutual)",Milwaukee,Wisconsin,U.S.,N. America,Developed ,  ,"Chairman, Chief Executive Officer"
+China Guodian,30515,819.3,121090,0,126502,Energy,Beijing,0,China,Asia,Growth,  ,Chairman
+EXOR Group,152591,825.3,170419,0,303247,Diversified Financials,Turin,0,Italy,Europe,Developed ,EXOSF ,"Chairman, Chief Executive Officer, Secretary"
+Migros,28486,832.6,62095,0,76183,Food and Drug Stores,Zurich,0,Switzerland,Europe,Developed ,  ,"Chief Executive Officer, Director"
+China Poly Group,26675,839.6,91455,0,70437,Real Estate,Beijing,0,China,Asia,Growth,  ,"President, Director"
+LG Display,25100,854.7,19259,0,49205,"Electronics, Electrical Equip.",Seoul,0,South Korea,Asia,Growth,LPL   ,"Chief Executive Officer, Vice Chairman"
+GS Caltex,25061,859.4,16164,0,3969,Petroleum Refining,Seoul,0,South Korea,Asia,Growth,  ,"Chief Executive Officer, Caltex"
+Daiwa House Industry,26596,862.8,28989,0,47143,"Engineering, Construction",Osaka,0,Japan,Asia,Developed ,DWAHY ,"Chairman, Chief Executive Officer, President"
+Aviation Industry Corp. of China,60252,882.7,143814,0,542236,Aerospace and Defense,Beijing,0,China,Asia,Growth,  ,President
+Best Buy,39745,897,13519,10489,125000,Specialty Retailers,Richfield,Minnesota,U.S.,N. America,Developed ,BBY   ,"President, Chief Executive Officer"
+Swiss Life,21365,906.4,189120,0,7595,"Insurance: Life, Health (stock)",Zurich,0,Switzerland,Europe,Developed ,SZLMY ,Group Chief Executive Officer
+Alimentation Couche-Tard,34530,932.8,10838,0,80000,Specialty Retailers,"Laval, Quebec",0,Canada,N. America,Developed ,ANCUF ,"President, Chief Executive Officer"
+International Paper,22365,938,30587,16874,56000,Miscellaneous,Memphis,Tennessee,U.S.,N. America,Developed ,IP    ,"Chairman of the Board, Chief Executive Officer"
+Old Mutual,20923,938.1,196810,0,64043,"Insurance: Life, Health (stock)",London,0,Britain,Europe,Developed ,ODMTY ,"Group Chief Executive, Director"
+Royal Ahold,42378,945.1,17249,0,129000,Food and Drug Stores,Zaandam,0,Netherlands,Europe,Developed ,AHONY ,Chief Executive Officer
+Suzuki Motor,26494,971.8,24044,0,61601,Motor Vehicles and Parts,Hamamatsu,0,Japan,Asia,Developed ,SZKMY ,"President, Chief Executive Officer, Chief Operating Officer"
+Rabobank,24019,976.2,728159,0,45658,Banks: Commercial and Savings,Utrecht,0,Netherlands,Europe,Developed ,  ,"Chairman, Chief Executive Officer"
+China Railway Engineering,99435,983.1,110319,0,281824,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,President
+Peugeot,60651,997.2,53343,0,187347,Motor Vehicles and Parts,Paris,0,France,Europe,Developed ,PUGOY ,Chairman
+FedEx,47453,1050,37069,43678,323035,"Mail, Package, and Freight Delivery",Memphis,Tennessee,U.S.,N. America,Developed ,FDX   ,"Chairman, President, Chief Executive Officer"
+Wilmar International,38777,1056.1,37939,0,92000,Food Production,Singapore,0,Singapore,Asia,Developed ,WLMIY ,"Chairman, Chief Executive Officer"
+Heineken Holding,23208,1061.6,40965,0,73767,Beverages,Amsterdam,0,Netherlands,Europe,Developed ,HKHHY ,"Chair, Chief Executive Officer"
+Samsung Life Insurance,24501,1071.1,196505,0,5348,"Insurance: Life, Health (stock)",Seoul,0,South Korea,Asia,Growth,0,Chief Executive Officer
+Macy's,27079,1072,20576,13746,157500,General Merchandisers,Cincinnati,Ohio,U.S.,N. America,Developed ,M     ,"Chairman, Chief Executive Officer"
+ZF Friedrichshafen,32340,1080.4,32947,0,138269,Motor Vehicles and Parts,Friedrichshafen,0,Germany,Europe,Developed ,  ,Chief Executive Officer
+Carrefour,87474,1087.1,48982,0,380920,Food and Drug Stores,Boulogne-Billancourt,0,France,Europe,Developed ,CRRFY ,"Chairman, Chief Executive Officer"
+Greenland Holding Group,33024,1095.8,92466,0,25621,Real Estate,Shanghai,0,China,Asia,Growth,  ,"President, Chairman, Chief Executive Officer"
+Beijing Automotive Group,54933,1097.5,45852,0,126000,Motor Vehicles and Parts,Beijing,0,China,Asia,Growth,  ,"Chief Executive Officer, President"
+China Railway Construction,95652,1105.8,108671,0,284100,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,President
+Mazda Motor,28376,1119.7,22677,0,46398,Motor Vehicles and Parts,Hiroshima,0,Japan,Asia,Developed ,MZDAY ,"President, Chief Executive Officer"
+Shandong Weiqiao Pioneering,53026,1120.9,27049,0,140358,Miscellaneous,Shandong,0,China,Asia,Growth,0,Chairman
+Amer International Group,47795,1140.5,18559,0,17683,"Electronics, Electrical Equip.",Shenzhen,0,China,Asia,Growth,  ,"Founder, Chairman of the Board"
+China COSCO Shipping,22965,1144.5,55642,0,82708,Shipping,Shanghai,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+PowerChina,45607,1170.4,77400,0,196368,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,President
+Tokyo Electric Power,50561,1172.7,121550,0,42855,Utilities,Tokyo,0,Japan,Asia,Developed ,TKECY ,President
+Kansai Electric Power,27038,1172.8,65959,0,33089,Utilities,Osaka,0,Japan,Asia,Developed ,0,"President, Director"
+Energy Transfer Equity,42126,1189,71189,7449,30078,Pipelines,Dallas,Texas,U.S.,N. America,Developed ,ETE   ,0
+Cathay Life Insurance,22881,1204.9,157732,0,32296,"Insurance: Life, Health (stock)",Taipei,0,Taiwan,Asia,Growth,  ,President
+Nippon Steel & Sumitomo Metal,40878,1211.3,57173,0,92504,Metals,Tokyo,0,Japan,Asia,Developed ,NSSMY ,"Chairman, President, Chief Executive Officer"
+China Huadian,31437,1212.6,117240,0,109431,Utilities,Beijing,0,China,Asia,Growth,  ,"Director, Board, President, Chief Executive Officer, Party Leadership Group"
+TIAA,35181,1214.2,517963,0,12735,"Insurance: Life, Health (Mutual)",New York,New York,U.S.,N. America,Developed ,  ,"President, Chief Executive Officer"
+Cardinal Health,102531,1215,30142,26989,34500,Wholesalers: Health Care,Dublin,Ohio,U.S.,N. America,Developed ,CAH   ,"Chairman, Chief Executive Officer"
+Bharat Petroleum,29082,1219.2,14164,0,13535,Petroleum Refining,Mumbai,0,India,South Asia,Growth,0,"Chairman, Managing Director"
+Tyson Foods,41373,1220,23004,26331,113000,Food Production,Springdale,Arkansas,U.S.,N. America,Developed ,TSN   ,"President, Chief Executive Officer"
+Sony,67519,1231.1,148366,0,125300,"Electronics, Electrical Equip.",Tokyo,0,Japan,Asia,Developed ,SNE   ,"President, Chief Executive Officer"
+Trafigura Group,97237,1235.9,39087,0,5248,Trading,Singapore,0,Singapore,Asia,Developed ,  ,Chief Executive Officer
+CNP Assurances,49305,1254,427672,0,4740,"Insurance: Life, Health (stock)",Paris,0,France,Europe,Developed ,CNPAY ,Chief Executive Officer
+Humana,54289,1276,24705,27263,50100,Health Care: Insurance and Managed Care,Louisville,Kentucky,U.S.,N. America,Developed ,HUM   ,"President, Chief Executive Officer"
+Michelin,23516,1295.6,25953,0,105798,Motor Vehicles and Parts,Clermont-Ferrand,0,France,Europe,Developed ,MGDDY ,"Chairman, Chief Executive Officer, President"
+China Shipbuilding Industry,36012,1307.7,68229,0,181781,Industrial Machinery,Beijing,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+Koç Holding,25515,1309.9,25013,0,91304,Energy,Istanbul,0,Turkey,MENAT,Growth,KHOLY ,Chief Executive Officer
+Lloyds Banking Group,47192,1313.9,1188816,0,75306,Banks: Commercial and Savings,London,0,Britain,Europe,Developed ,LYG   ,Group Chief Executive
+Electricité de France,83202,1316.7,302986,0,156312,Utilities,Paris,0,France,Europe,Developed ,ECIFY ,"Chairman, Chief Executive Officer"
+Sompo Japan Nipponkoa Holdings,27123,1329.3,90646,0,45326,Insurance: Property and Casualty (Stock),Tokyo,0,Japan,Asia,Developed ,SMPNY ,"President, Chief Executive Officer"
+Seven & I Holdings,50099,1333.6,48216,0,53993,Food and Drug Stores,Tokyo,0,Japan,Asia,Developed ,SVNDY ,"President, Representative Director"
+Compass Group,27157,1341.7,13247,0,515864,Food Services,Chertsey,0,Britain,Europe,Developed ,CMPGY ,Chief Executive Officer
+New China Life Insurance,25129,1368.6,101725,0,52474,"Insurance: Life, Health (stock)",Beijing,0,China,Asia,Growth,0,"Chairman of the Board, Chief Executive Officer"
+Shenhua Group,37612,1390.5,143436,0,208432,"Mining, Crude-Oil Production",Beijing,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+JBS,48870,1391.9,30785,0,238020,Food Production,São Paulo,0,Brazil,Latin America  ,Growth,JBSAY ,Chief Executive Officer
+Aviva,36252,1402.5,571610,0,29639,"Insurance: Life, Health (stock)",London,0,Britain,Europe,Developed ,AV    ,"Group Chief Executive Officer, Director"
+BAE Systems,25647,1402.5,29596,0,75000,Aerospace and Defense,London,0,Britain,Europe,Developed ,BAESY ,"President, Chief Executive Officer"
+Chubu Electric Power,23774,1413.9,49288,0,30659,Utilities,Nagoya,0,Japan,Asia,Developed ,0,"President, Chief Executive Officer"
+Pertamina,41763,1420.2,45519,0,27971,Petroleum Refining,Jakarta,0,Indonesia,Asia,Growth,  ,"President, Chief Executive Officer"
+Danone,24861,1422.1,35532,0,99781,Food Consumer Products,Paris,0,France,Europe,Developed ,DANOY ,"Vice Chairman, Chief Executive Officer, Director"
+Massachusetts Mutual Life Insurance,38243,1425.3,266550,0,11593,"Insurance: Life, Health (Mutual)",Springfield,Massachusetts,U.S.,N. America,Developed ,  ,"Chairman, President, Chief Executive Officer"
+Hitachi,83584,1434,111684,0,335244,"Electronics, Electrical Equip.",Tokyo,0,Japan,Asia,Developed ,HTHIY ,"President, Chief Executive Officer, Director"
+Saint-Gobain,46169,1436.5,48723,0,168114,"Building Materials, Glass",Courbevoie,0,France,Europe,Developed ,CODYY ,"Chairman, Chief Executive Officer, President"
+Power Corp. of Canada,29933,1437.8,304456,0,26500,"Insurance: Life, Health (stock)","Montreal, Quebec",0,Canada,N. America,Developed ,PWCDF ,"Deputy Chairman, President, Co-Chief Executive Officer"
+China Aerospace Science & Industry,27867,1470.8,36732,0,142709,Aerospace and Defense,Beijing,0,China,Asia,Growth,  ,Chairman of the Board
+Dongfeng Motor Group,82817,1479.8,56688,0,191950,Motor Vehicles and Parts,Wuhan,0,China,Asia,Growth,  ,"Chairman, Chief Executive Officer, Secretary"
+Dai-ichi Life Insurance,61090,1487,444251,0,54617,"Insurance: Life, Health (stock)",Tokyo,0,Japan,Asia,Developed ,DCNSF ,"President, Representative Director"
+China South Industries Group,70081,1487.9,60348,0,238287,Aerospace and Defense,Beijing,0,China,Asia,Growth,  ,President
+Fresenius,30645,1506.4,46891,0,222305,Health Care: Medical Facilities,Bad Homburg,0,Germany,Europe,Developed ,FSNUY ,"Chairman, Management Board"
+MS&AD Insurance,41758,1512,180670,0,40617,Insurance: Property and Casualty (Stock),Tokyo,0,Japan,Asia,Developed ,MSADY ,"Representative Director, President, Chief Executive Officer"
+Tesoro,28150,1540,16332,10311,6016,Petroleum Refining,San Antonio,Texas,U.S.,N. America,Developed ,TSO   ,"President, Chief Executive Officer"
+Schneider Electric,29551,1560.8,46247,0,160843,"Electronics, Electrical Equip.",Rueil-Malmaison,0,France,Europe,Developed ,SBGSY ,"Chairman, President, Chief Executive Officer"
+Johnson Controls,40204,1563,29673,25262,139000,Motor Vehicles and Parts,Milwaukee,Wisconsin,U.S.,N. America,Developed ,JCI   ,"President, Chief Executive Officer"
+DZ Bank,31195,1570.7,443540,0,28213,Banks: Commercial and Savings,Frankfurt,0,Germany,Europe,Developed ,  ,Chief Executive Officer
+LM Ericsson,29282,1606.8,33740,0,116988,Network and Other Communications Equipment,Stockholm,0,Sweden,Europe,Developed ,ERIC  ,"President, Chief Executive Officer"
+Panasonic,62921,1609.8,49804,0,249520,"Electronics, Electrical Equip.",Osaka,0,Japan,Asia,Developed ,PCRFY ,President
+China Electronics Technology Group,26410,1636.9,33981,0,140493,Aerospace and Defense,Beijing,0,China,Asia,Growth,  ,Chairman
+International Airlines Group,25356,1658.4,30662,0,60862,Airlines,Hounslow,0,Britain,Europe,Developed ,ICAGY ,"Chief Executive Officer, Director"
+Gas Natural Fenosa,28858,1666.1,52281,0,19939,Energy,Barcelona,0,Spain,Europe,Developed ,GASNY ,"Chief Executive Officer, Director"
+Tata Motors,42092,1683.9,40669,0,76500,Motor Vehicles and Parts,Mumbai,0,India,South Asia,Growth,TTM   ,"Chief Executive Officer, Director, Managing"
+Deutsche Post,68358,1708.3,41134,0,450508,"Mail, Package, and Freight Delivery",Bonn,0,Germany,Europe,Developed ,DPSGY ,Chief Executive Officer
+China Communications Construction,67764,1708.8,140783,0,136655,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,"Executive Director, Chairman"
+Indian Oil,54711,1713.7,36550,0,34659,Petroleum Refining,New Delhi,0,India,South Asia,Growth,  ,Chairman
+Manulife Financial,26933,1713.9,507339,0,33500,"Insurance: Life, Health (stock)","Toronto, Ontario",0,Canada,N. America,Developed ,MFC   ,"President, Chief Executive Officer"
+China Telecommunications,61796,1715.7,118994,0,417101,Telecommunications,Beijing,0,China,Asia,Growth,  ,"Executive Director, Chairman, Chief Executive Officer"
+Meiji Yasuda Life Insurance,35623,1783.4,348499,0,41045,"Insurance: Life, Health (Mutual)",Tokyo,0,Japan,Asia,Developed ,  ,"President, Director"
+Woolworths,50618,1784.6,19469,0,197000,Food and Drug Stores,Bella Vista,0,Australia,Asia,Developed ,WOLWF ,"Managing Director, Chief Executive Officer"
+Volvo,37061,1785.7,44394,0,93983,Motor Vehicles and Parts,Göteborg,0,Sweden,Europe,Developed ,VLVLY ,"Chief Executive Officer, President, Director"
+Jardine Matheson,37007,1797,66955,0,440000,Specialty Retailers,Hong Kong,0,China,Asia,Growth,JMHLY ,"Chairman, Managing Director"
+Canon,31401,1819.5,36812,0,189571,"Computers, Office Equipment",Tokyo,0,Japan,Asia,Developed ,CAJ   ,"Chairman, Chief Executive Officer, Head"
+Zurich Insurance Group,60568,1842,381972,0,54335,Insurance: Property and Casualty (Stock),Zurich,0,Switzerland,Europe,Developed ,ZURVY ,Group Chief Executive Officer
+Archer Daniels Midland,67702,1849,40157,21320,32300,Food Production,Chicago,Illinois,U.S.,N. America,Developed ,ADM   ,"Chief Executive Officer, President"
+China Aerospace Science & Technology,30554,1854.2,55006,0,161022,Aerospace and Defense,Beijing,0,China,Asia,Growth,  ,Chairman of the Board
+State Bank of India,41681,1867.3,448658,0,293459,Banks: Commercial and Savings,Mumbai,0,India,South Asia,Growth,SBKFF ,"Chairman, Chief Executive Officer"
+UniCredit Group,34576,1879.4,934603,0,125510,Banks: Commercial and Savings,Milan,0,Italy,Europe,Developed ,UNCFF ,Chief Executive Officer
+CRRC,37837,1880.6,48000,0,186963,Industrial Machinery,Beijing,0,China,Asia,Growth,  ,Chairman
+Lufthansa Group,35559,1883.6,35260,0,103158,Airlines,Cologne,0,Germany,Europe,Developed ,DLAKY ,"Chairman, Chief Executive Officer"
+Mitsubishi Electric,36604,1903.3,36127,0,135160,"Electronics, Electrical Equip.",Tokyo,0,Japan,Asia,Developed ,MIELY ,"President, Chief Executive Officer, Director"
+BHP Billiton,52267,1910,124580,0,42829,"Mining, Crude-Oil Production",Melbourne,0,Australia,Asia,Developed ,BHP   ,"Chief Executive Officer, Executive Director"
+ABB,35481,1933,41356,0,135800,Industrial Machinery,Zurich,0,Switzerland,Europe,Developed ,ABB   ,"Chief Executive Officer, Director"
+Royal Dutch Shell,272156,1939,340157,0,90000,Petroleum Refining,The Hague,0,Netherlands,Europe,Developed ,RDS.A ,"Chief Executive Officer, Director"
+Emirates Group,22734,1940,32448,0,61205,Airlines,Dubai,0,UAE,MENAT,Growth,  ,"Chairman, Chief Executive Officer"
+Deere,28863,1940,57948,24277,57180,Construction and Farm Machinery,Moline,Illinois,U.S.,N. America,Developed ,DE    ,"Chairman, Chief Executive Officer"
+DuPont,27940,1953,41166,55289,52000,Chemicals,Wilmington,Delaware,U.S.,N. America,Developed ,DD    ,0
+Publix Super Markets,32619,1965,16359,0,180000,Food and Drug Stores,Lakeland,Florida,U.S.,N. America,Developed ,  ,0
+Northrop Grumman,23526,1990,24454,35809,65000,Aerospace and Defense,Falls Church,Virginia,U.S.,N. America,Developed ,NOC   ,"Chairman, Chief Executive Officer, President"
+EMC,24704,1990,46612,51889,72000,"Computers, Office Equipment",Hopkinton,Massachusetts,U.S.,N. America,Developed ,EMC   ,"Chairman, President, Chief Executive Officer"
+Itochu,42345,2002.3,71511,0,120413,Trading,Osaka,0,Japan,Asia,Developed ,ITOCY ,"President, Chief Executive Officer"
+Magna International,33871,2013,19706,0,128975,Motor Vehicles and Parts,"Aurora, Ontario",0,Canada,N. America,Developed ,MGA   ,"Chief Executive Officer, Director"
+Midea Group,22174,2021.9,19841,0,93299,"Electronics, Electrical Equip.",Foshan,0,China,Asia,Growth,0,"Chairman, President"
+Wesfarmers,51931,2029.1,31045,0,205000,Food and Drug Stores,Perth,0,Australia,Asia,Developed ,WFAFY ,"Managing Director, Chief Executive Officer"
+Denso,37688,2034.6,44874,0,151775,Motor Vehicles and Parts,Kariya,0,Japan,Asia,Developed ,DNZOY ,"President, Chief Executive Officer"
+Kroger,109830,2039,33897,36815,431000,Food and Drug Stores,Cincinnati,Ohio,U.S.,N. America,Developed ,KR    ,"Chief Executive Officer, Director"
+East Japan Railway,23883,2043.4,69316,0,86127,Railroads,Tokyo,0,Japan,Asia,Developed ,EJPRY ,"President, Chief Executive Officer"
+Schlumberger,35475,2072,68005,0,95000,"Oil and Gas Equipment, Services",Houston,Texas,U.S.,N. America,Developed ,SLB   ,0
+Raytheon,23247,2074,29281,36666,61000,Aerospace and Defense,Waltham,Massachusetts,U.S.,N. America,Developed ,RTN   ,"Chairman, Chief Executive Officer"
+Cigna,37876,2094,57088,35101,39300,Health Care: Insurance and Managed Care,Bloomfield,Connecticut,U.S.,N. America,Developed ,CI    ,"President, Chief Executive Officer"
+Caterpillar,47011,2102,78497,44571,112200,Construction and Farm Machinery,Peoria,Illinois,U.S.,N. America,Developed ,CAT   ,"Chairman, Chief Executive Officer"
+China Everbright Group,32901,2114.3,538517,0,59500,Banks: Commercial and Savings,Beijing,0,China,Asia,Growth,  ,Chief Executive Officer
+Tokio Marine Holdings,38143,2120.3,194477,0,36902,Insurance: Property and Casualty (Stock),Tokyo,0,Japan,Asia,Developed ,TKOMY ,"President, Group Chief Executive Officer, Director"
+HCA,43591,2129,32744,30890,203500,Health Care: Medical Facilities,Nashville,Tennessee,U.S.,N. America,Developed ,HCA   ,"President, Chief Executive Officer"
+Allstate,35653,2171,104656,25486,41350,Insurance: Property and Casualty (Stock),Northbrook,Illinois,U.S.,N. America,Developed ,ALL   ,"Chairman, President, Chief Executive Officer"
+American International Group,58327,2196,496943,61283,66400,Insurance: Property and Casualty (Stock),New York,New York,U.S.,N. America,Developed ,AIG   ,"President, Chief Executive Officer, Director"
+América Móvil,56361,2209.4,75081,0,195475,Telecommunications,Mexico City,0,Mexico,Latin America  ,Growth,AMX   ,"Chief Executive Officer, Director"
+China Southern Power Grid,74697,2222.5,98560,0,303301,Utilities,Guangzhou,0,China,Asia,Growth,  ,"President, Director"
+China State Construction Engineering,140159,2251.3,166279,0,241474,"Engineering, Construction",Beijing,0,China,Asia,Growth,  ,President
+Assicurazioni Generali,102567,2251.8,543696,0,76191,"Insurance: Life, Health (stock)",Trieste,0,Italy,Europe,Developed ,ARZGY ,Group Chief Executive Officer
+McKesson,192487,2258,56563,0,68000,Wholesalers: Health Care,San Francisco,California,U.S.,N. America,Developed ,MCK   ,"Chairman, President, Chief Executive Officer"
+Exelon,29447,2269,95384,33052,29762,Utilities,Chicago,Illinois,U.S.,N. America,Developed ,EXC   ,"President, Chief Executive Officer"
+Vinci,43618,2269.6,67504,0,185452,"Engineering, Construction",Rueil-Malmaison,0,France,Europe,Developed ,VCISY ,"Chairman, Chief Executive Officer"
+United Services Automobile Assn.,24361,2272,137077,0,28681,Insurance: Property and Casualty (Stock),San Antonio,Texas,U.S.,N. America,Developed ,  ,"Executive Vice President, Chief Executive Officer"
+TJX,30945,2277.7,11500,51914,216000,Specialty Retailers,Framingham,Massachusetts,U.S.,N. America,Developed ,TJX   ,0
+Kia Motors,43792,2326.3,39222,0,50348,Motor Vehicles and Parts,Seoul,0,South Korea,Asia,Growth,0,"Chairman, President, Chief Executive Officer"
+Bridgestone,31318,2349.1,31558,0,144303,Motor Vehicles and Parts,Tokyo,0,Japan,Asia,Developed ,BRDCY ,Chief Executive Officer
+Costco Wholesale,116199,2377,33440,69183,161000,Specialty Retailers,Issaquah,Washington,U.S.,N. America,Developed ,COST  ,"President, Chief Executive Officer, Director"
+Aetna,60337,2390.2,53424,39278,50100,Health Care: Insurance and Managed Care,Hartford,Connecticut,U.S.,N. America,Developed ,AET   ,"Chairman, Chief Executive Officer"
+Dalian Wanda Group,27377,2431.2,139115,0,128518,Real Estate,Beijing,0,China,Asia,Growth,  ,Chairman of the Board
+Enel,83926,2436,175073,0,67914,Utilities,Rome,0,Italy,Europe,Developed ,ENLAY ,"Chief Executive Officer, General Manager"
+Evergrande Real Estate Group,21184,2474.1,116582,0,83372,Real Estate,Guangzhou,0,China,Asia,Growth,EGRNY ,"Vice Chairman, Chief Executive Officer"
+Express Scripts Holding,101752,2476.4,53243,43467,25900,Miscellaneous,St. Louis,Missouri,U.S.,N. America,Developed ,ESRX  ,0
+China Resources National,76574,2489.2,153154,0,447348,General Merchandisers,Hong Kong,0,China,Asia,Growth,  ,Chief Executive Officer
+H & M Hennes & Mauritz,21627,2499,9843,0,104634,Specialty Retailers,Stockholm,0,Sweden,Europe,Developed ,HNNMY ,"Chief Executive Officer, Director"
+Enterprise Products Partners,27028,2521.2,48952,49764,6800,Pipelines,Houston,Texas,U.S.,N. America,Developed ,EPD   ,0
+Lowe's,59074,2546,31266,67981,225000,Specialty Retailers,Mooresville,North Carolina,U.S.,N. America,Developed ,LOW   ,"Chairman, Chief Executive Officer, President"
+Anthem,79157,2560,61718,36325,53000,Health Care: Insurance and Managed Care,Indianapolis,Indiana,U.S.,N. America,Developed ,ANTM  ,"Chief Executive Officer, Director, President"
+Iberdrola,34852,2686.2,113686,0,27169,Utilities,Bilbao,0,Spain,Europe,Developed ,IBDRY ,Chief Executive Officer
+AIA Group,23274,2691,167622,0,20000,"Insurance: Life, Health (stock)",Hong Kong,0,China,Asia,Growth,AAGIY ,"Executive Director, Chief Executive Officer, Group, President"
+Hyundai Mobis,33196,2701.9,32223,0,25216,Motor Vehicles and Parts,Seoul,0,South Korea,Asia,Growth,0,Chief Executive Officer
+Emerson Electric,22304,2710,22088,34973,110800,"Electronics, Electrical Equip.",St. Louis,Missouri,U.S.,N. America,Developed ,EMR   ,"Chairman, Chief Executive Officer"
+Duke Energy,24002,2816,121156,55572,29188,Utilities,Charlotte,North Carolina,U.S.,N. America,Developed ,DUK   ,"President, Chief Executive Officer"
+China Pacific Insurance (Group),39336,2820.9,142270,0,91761,"Insurance: Life, Health (stock)",Shanghai,0,China,Asia,Growth,CHPXF ,President
+AstraZeneca,24708,2825,60124,0,61500,Pharmaceuticals,London,0,Britain,Europe,Developed ,AZN   ,"Chief Executive Officer, Director"
+Christian Dior,41901,2840.3,66879,0,113208,Apparel,Paris,0,France,Europe,Developed ,CHDRY ,"Chairman, Chief Executive Officer, President"
+Marathon Petroleum,64566,2852,43115,19677,45440,Petroleum Refining,Findlay,Ohio,U.S.,N. America,Developed ,MPC   ,"President, Chief Executive Officer, Director"
+Honda Motor,121624,2869.9,162211,0,208399,Motor Vehicles and Parts,Tokyo,0,Japan,Asia,Developed ,HMC   ,"President, Chief Executive Officer"
+China Vanke,29329,2883.2,94168,0,42295,Real Estate,Shenzhen,0,China,Asia,Growth,0,President
+Banco Bilbao Vizcaya Argentaria,42968,2930.7,814735,0,137968,Banks: Commercial and Savings,Bilbao,0,Spain,Europe,Developed ,BBVA  ,Chief Executive Officer
+Orange,44651,2941.8,99311,0,156191,Telecommunications,Paris,0,France,Europe,Developed ,ORAN  ,"Chairman, Chief Executive Officer"
+General Dynamics,31469,2965,31997,40286,99900,Aerospace and Defense,Falls Church,Virginia,U.S.,N. America,Developed ,GD    ,"Chairman, Chief Executive Officer"
+Airbus Group,71493,2990.6,115877,0,136574,Aerospace and Defense,Leiden,0,Netherlands,Europe,Developed ,EADSY ,"Chief Executive Officer, Airbus,  Airbus Foundation, Director"
+Continental,43519,3025.4,35666,0,207899,Motor Vehicles and Parts,Hanover,0,Germany,Europe,Developed ,CTTAY ,"Executive, Board Member, President, Chief Executive Officer"
+Intesa Sanpaolo,42239,3038.3,734810,0,90807,Banks: Commercial and Savings,Turin,0,Italy,Europe,Developed ,ISNPY ,"Managing Director, Chief Executive Officer"
+Telefónica,60917,3045,133574,0,129890,Telecommunications,Madrid,0,Spain,Europe,Developed ,TEF   ,"Chairman, Chief Executive Officer"
+Accenture,32914,3053.6,18266,0,358000,Information Technology Services,Dublin,0,Ireland,Europe,Developed ,ACN   ,"Chairman, Chief Executive Officer, Director"
+People's Insurance Co. of China,64606,3109.6,129892,0,172213,Insurance: Property and Casualty (Stock),Beijing,0,China,Asia,Growth,PINXY ,General Manager
+Renault,50280,3131.5,98415,0,120136,Motor Vehicles and Parts,Boulogne-Billancourt,0,France,Europe,Developed ,RNLSY ,"Chairman, Chief Executive Officer"
+Inditex,23053,3170.6,18779,0,152854,Specialty Retailers,Arteixo,0,Spain,Europe,Developed ,IDEXY ,"Chairman, Chief Executive Officer"
+Pacific Construction Group,73047,3205.2,42798,0,351679,"Engineering, Construction",Nanjing,0,China,Asia,Growth,  ,"Chairman, Chief Executive Officer"
+China FAW Group,62852,3252.6,51325,0,132083,Motor Vehicles and Parts,Changchun,0,China,Asia,Growth,  ,Chairman
+Nike,30601,3273,21600,104693,62600,Apparel,Beaverton,Oregon,U.S.,N. America,Developed ,NKE   ,"Chief Executive Officer, President"
+Nippon Life Insurance,67118,3360.8,628296,0,73578,"Insurance: Life, Health (Mutual)",Osaka,0,Japan,Asia,Developed ,  ,"President, Chief Executive Officer"
+Target,73785,3363,40262,49367,341000,General Merchandisers,Minneapolis,Minnesota,U.S.,N. America,Developed ,TGT   ,"Chairman, Chief Executive Officer"
+Petronas,63466,3371.9,137974,0,53149,Petroleum Refining,Kuala Lumpur,0,Malaysia,Asia,Growth,  ,"President, Group Chief Executive Officer"
+SAP,23065,3398.8,44958,0,76986,Computer Software,Walldorf,0,Germany,Europe,Developed ,SAP   ,Chief Executive Officer
+Travelers Cos.,26800,3439,100184,34427,30900,Insurance: Property and Casualty (Stock),New York,New York,U.S.,N. America,Developed ,TRV   ,0
+Munich Re,69433,3446.5,300356,0,43554,Insurance: Property and Casualty (Stock),Munich,0,Germany,Europe,Developed ,MURGY ,"Chief Executive Officer, Director"
+Telstra,22126,3518.5,31078,0,36165,Telecommunications,Melbourne,0,Australia,Asia,Developed ,TLSYY ,Chief Executive Officer
+Robert Bosch,78323,3541.9,83926,0,374778,Motor Vehicles and Parts,Stuttgart,0,Germany,Europe,Developed ,  ,"Chairman, Chief Executive Officer"
+Japan Post Holdings,118762,3548.3,2597856,0,250876,"Insurance: Life, Health (stock)",Tokyo,0,Japan,Asia,Developed ,  ,"Director, Representative, President, Chief Executive Officer"
+Sinopec,294344,3594.8,317006,0,810538,Petroleum Refining,Beijing,0,China,Asia,Growth,  ,"Vice Chairman, President"
+Groupe BPCE,56209,3596.3,1267090,0,102886,Banks: Commercial and Savings,Paris,0,France,Europe,Developed ,  ,"Chairman, Management Board"
+Lockheed Martin,46132,3605,49128,67508,126000,Aerospace and Defense,Bethesda,Maryland,U.S.,N. America,Developed ,LMT   ,"Chairman of the Board, President, Chief Executive Officer"
+Deutsche Telekom,76793,3609.6,156326,0,226000,Telecommunications,Bonn,0,Germany,Europe,Developed ,DTEGY ,Chief Executive Officer
+Fuji Heavy Industries,26924,3637.2,23068,0,34735,Motor Vehicles and Parts,Tokyo,0,Japan,Asia,Developed ,FUJHY ,"President, Chief Executive Officer"
+Sberbank,45608,3654.8,375039,0,330677,Banks: Commercial and Savings,Moscow,0,Russia,Russia / CIS ,Growth,SBRCY ,"Chairman, Chief Executive Officer"
+L'Oréal,28017,3657.7,36617,0,82881,Household and Personal Products,Clichy,0,France,Europe,Developed ,LRLCY ,"Chairman, Chief Executive Officer, Secretary"
+CITIC Group,55938,3763.5,884429,0,194795,Diversified Financials,Beijing,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+Time Warner,28118,3833,63848,57326,24800,Entertainment,New York,New York,U.S.,N. America,Developed ,TWX   ,"Chairman, Chief Executive Officer"
+BT Group,28670,3896.6,61209,0,102500,Telecommunications,London,0,Britain,Europe,Developed ,BT    ,Chief Executive Officer
+Crédit Agricole,84099,3900.2,1661119,0,71499,Banks: Commercial and Savings,Paris,0,France,Europe,Developed ,CRARY ,"Chief Executive Officer, Director"
+National Grid,22758,3901.1,84694,0,25068,Utilities,London,0,Britain,Europe,Developed ,NGG   ,Chief Executive Officer
+Prudential,63106,3940.2,570300,0,23924,"Insurance: Life, Health (stock)",London,0,Britain,Europe,Developed ,PUK   ,Group Chief Executive
+SoftBank Group,76469,3949.7,184261,0,63591,Telecommunications,Tokyo,0,Japan,Asia,Developed ,SFTBY ,"President, Chief Executive Officer"
+Valero Energy,81824,3990,44343,30132,10103,Petroleum Refining,San Antonio,Texas,U.S.,N. America,Developed ,VLO   ,"Chief Executive Officer, President, Director"
+Capital One Financial,25098,4050,334048,35977,45400,Banks: Commercial and Savings,McLean,Virginia,U.S.,N. America,Developed ,COF   ,"Chairman, Chief Executive Officer, President"
+KDDI,37202,4118.8,51675,0,31834,Telecommunications,Tokyo,0,Japan,Asia,Developed ,KDDIY ,"President, Member of the Board"
+China Life Insurance,101274,4170.3,466302,0,130732,"Insurance: Life, Health (stock)",Beijing,0,China,Asia,Growth,  ,"Chairman, Executive Director"
+China Post Group,69637,4194.3,1157379,0,938494,"Mail, Package, and Freight Delivery",Beijing,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+Walgreens Boots Alliance,103444,4220,68782,90874,302500,Food and Drug Stores,Deerfield,Illinois,U.S.,N. America,Developed ,WBA   ,"Executive Vice Chairman, Acting Chief Executive Officer"
+Banco do Brasil,67071,4220.5,351167,0,109191,Banks: Commercial and Savings,Brasília,0,Brazil,Latin America  ,Growth,BDORY ,"Director, Chief Executive Officer"
+Reliance Industries,43437,4220.5,91549,0,24930,Petroleum Refining,Mumbai,0,India,South Asia,Growth,????  ,"Chairman, Managing Director"
+Phillips 66,87169,4227,48580,45566,14000,Petroleum Refining,Houston,Texas,U.S.,N. America,Developed ,PSX   ,"Chairman, Chief Executive Officer"
+Nissan Motor,101536,4363.5,154597,0,152421,Motor Vehicles and Parts,Yokohama,0,Japan,Asia,Developed ,NSANY ,"President, Chief Executive Officer"
+BASF,78147,4422.7,76942,0,108048,Chemicals,Ludwigshafen,0,Germany,Europe,Developed ,BASFY ,Chairman of the Board
+Société Générale,107736,4438.2,1449415,0,151149,Banks: Commercial and Savings,Paris,0,France,Europe,Developed ,SCGLY ,"Chairman, Chief Executive Officer"
+Merck,39498,4442,101779,146839,68000,Pharmaceuticals,Kenilworth,New Jersey,U.S.,N. America,Developed ,MRK   ,"Chairman, Chief Executive Officer"
+LyondellBasell Industries,32736,4476,22757,0,13000,Chemicals,Rotterdam,0,Netherlands,Europe,Developed ,LYB   ,Chief Executive Officer
+Delta Air Lines,40704,4526,53134,37898,82949,Airlines,Atlanta,Georgia,U.S.,N. America,Developed ,DAL   ,0
+McDonald's,25413,4529.3,37939,113314,420000,Food Services,Oak Brook,Illinois,U.S.,N. America,Developed ,MCD   ,"President, Chief Executive Officer, Director"
+HP,103355,4554,106882,21272,287000,"Computers, Office Equipment",Palo Alto,California,U.S.,N. America,Developed ,HPQ   ,0
+Bayer,52437,4559.1,80289,0,116800,Pharmaceuticals,Leverkusen,0,Germany,Europe,Developed ,BAYRY ,"Chairman, Chief Executive Officer"
+Chevron,131118,4587,266103,179653,61500,Petroleum Refining,San Ramon,California,U.S.,N. America,Developed ,CVX   ,"Chairman, Chief Executive Officer"
+Swiss Re,35714,4597,196135,0,12767,Insurance: Property and Casualty (Stock),Zurich,0,Switzerland,Europe,Developed ,SSREY ,"Group Chief Executive Officer, Director"
+China National Offshore Oil,67799,4608.1,179004,0,110200,"Mining, Crude-Oil Production",Beijing,0,China,Asia,Growth,  ,"Executive Director, Chief Executive Officer"
+Hon Hai Precision Industry,141213,4627.1,70287,0,1060000,"Electronics, Electrical Equip.",New Taipei City,0,Taiwan,Asia,Growth,HNHPF ,"Chairman, Chief Executive Officer, Secretary"
+SK Holdings,34992,4727.5,82431,0,83000,Petroleum Refining,Seoul,0,South Korea,Asia,Growth,0,"Chief Executive Officer, President"
+SAIC Motor,106684,4740.9,78790,0,92780,Motor Vehicles and Parts,Shanghai,0,China,Asia,Growth,  ,"Vice Chairman, President, Chief Executive Officer"
+Sanofi,41460,4755.5,111141,0,115631,Pharmaceuticals,Paris,0,France,Europe,Developed ,SNY   ,"Chief Executive Officer, Director"
+Lukoil,84677,4765.1,68884,0,106200,Petroleum Refining,Moscow,0,Russia,Russia / CIS ,Growth,LUKOY ,"President, Chief Executive Officer"
+Honeywell International,38581,4768,49316,85308,129000,"Electronics, Electrical Equip.",Morris Plains,New Jersey,U.S.,N. America,Developed ,HON   ,"Chairman, Chief Executive Officer"
+Union Pacific,21813,4772,54600,67332,47457,Railroads,Omaha,Nebraska,U.S.,N. America,Developed ,UNP   ,"Chief Executive Officer, President"
+3M,30274,4833,32718,100946,89446,Miscellaneous,St. Paul,Minnesota,U.S.,N. America,Developed ,MMM   ,"Chairman, Chief Executive Officer, President"
+United Parcel Service,58363,4844,38311,93277,341240,"Mail, Package, and Freight Delivery",Atlanta,Georgia,U.S.,N. America,Developed ,UPS   ,Chief Executive Officer
+National Australia Bank,34181,4963.1,670542,0,41826,Banks: Commercial and Savings,Docklands,0,Australia,Asia,Developed ,NABZY ,Group Chief Executive Officer
+SABIC,39481,5003.8,87446,0,40000,Chemicals,Riyadh,0,Saudi Arabia,MENAT,Growth,  ,"Vice Chairman, Chief Executive Officer"
+Total,143421,5087,224484,0,96019,Petroleum Refining,Courbevoie,0,France,Europe,Developed ,TOT   ,"Chairman, Chief Executive Officer"
+AbbVie,22859,5144,53050,92405,28000,Pharmaceuticals,North Chicago,Illinois,U.S.,N. America,Developed ,ABBV  ,"Chairman of the Board, Chief Executive Officer"
+American Express,34441,5163,161184,58842,54800,Diversified Financials,New York,New York,U.S.,N. America,Developed ,AXP   ,"Chairman, Chief Executive Officer"
+Boeing,96114,5176,94408,82645,161400,Aerospace and Defense,Chicago,Illinois,U.S.,N. America,Developed ,BA    ,0
+CVS,153290,5237,93657,113947,199000,Food and Drug Stores,Woonsocket,Rhode Island,U.S.,N. America,Developed ,CVS   ,"President, Chief Executive Officer, Director"
+Qualcomm,25281,5271,50796,76449,33000,Network and Other Communications Equipment,San Diego,California,U.S.,N. America,Developed ,QCOM  ,Chief Executive Officer
+MetLife,69951,5310,877933,48188,69000,"Insurance: Life, Health (stock)",New York,New York,U.S.,N. America,Developed ,MET   ,"Chairman, President, Chief Executive Officer"
+Sumitomo Mitsui Financial Group,39751,5386.8,1660312,0,73652,Banks: Commercial and Savings,Tokyo,0,Japan,Asia,Developed ,SMFG  ,"President, Representative Director"
+Banco Bradesco,43740,5439.4,259596,0,79782,Banks: Commercial and Savings,Osasco,0,Brazil,Latin America  ,Growth,BBD   ,Chief Executive Officer
+Unilever,59093,5445.4,56806,0,171000,Household and Personal Products,London,0,Britain,Europe,Developed ,UL    ,"Chief Executive Officer, Director"
+PepsiCo,63056,5452,69667,149753,263000,Food Consumer Products,Purchase,New York,U.S.,N. America,Developed ,PEP   ,"Chairman, Chief Executive Officer"
+ING Group,66206,5464.3,910078,0,57553,Banks: Commercial and Savings,Amsterdam,0,Netherlands,Europe,Developed ,ING   ,"Chairman, Chief Executive Officer, Secretary"
+Mizuho Financial Group,26783,5588.8,1721468,0,56375,Banks: Commercial and Savings,Tokyo,0,Japan,Asia,Developed ,MFG   ,"President, Chief Executive Officer"
+Bank of Nova Scotia,25119,5639,654714,0,89214,Banks: Commercial and Savings,"Toronto, Ontario",0,Canada,N. America,Developed ,BNS   ,"President, Chief Executive Officer"
+Prudential Financial,57119,5642,757388,32086,49384,"Insurance: Life, Health (stock)",Newark,New Jersey,U.S.,N. America,Developed ,PRU   ,"Chairman, Chief Executive Officer"
+Hyundai Motor,81320,5674.9,141063,0,129315,Motor Vehicles and Parts,Seoul,0,South Korea,Asia,Growth,HYMTF ,"Chairman, Chief Executive Officer"
+Rosneft Oil,64749,5810.4,132236,0,261500,Petroleum Refining,Moscow,0,Russia,Russia / CIS ,Growth,OJSCY ,"President, Chairman of the Board, Chief Executive Officer"
+UnitedHealth Group,157107,5813,111383,122542,200000,Health Care: Insurance and Managed Care,Minnetonka,Minnesota,U.S.,N. America,Developed ,UNH   ,"President, Chief Executive Officer, Director"
+Australia & New Zealand Banking Group,28958,5867.5,624799,0,50152,Banks: Commercial and Savings,Docklands,0,Australia,Asia,Developed ,ANZBY ,Chief Executive Officer
+Huawei Technologies,62855,5872.9,57311,0,170000,Network and Other Communications Equipment,Shenzhen,0,China,Asia,Growth,  ,Chairman of the Board
+U.S. Bancorp,21494,5879,421853,70518,65433,Banks: Commercial and Savings,Minneapolis,Minnesota,U.S.,N. America,Developed ,USB   ,"Chairman, President, Chief Executive Officer"
+Goldman Sachs Group,39208,6083,861395,69253,36800,Banks: Commercial and Savings,New York,New York,U.S.,N. America,Developed ,GS    ,"Chairman, Chief Executive Officer"
+Morgan Stanley,37897,6127,787465,48984,56218,Banks: Commercial and Savings,New York,New York,U.S.,N. America,Developed ,MS    ,"Chairman, Chief Executive Officer"
+Nippon Telegraph & Telephone,96134,6145.2,187186,0,241450,Telecommunications,Tokyo,0,Japan,Asia,Developed ,NTT   ,"President, Chief Executive Officer"
+State Farm Insurance Cos.,75697,6228.6,241183,0,70425,Insurance: Property and Casualty (Mutual),Bloomington,Illinois,U.S.,N. America,Developed ,  ,0
+AXA,129250,6230.8,963535,0,98279,"Insurance: Life, Health (stock)",Paris,0,France,Europe,Developed ,AXAHY ,"Chairman, Chief Executive Officer"
+Westpac Banking,31064,6273.9,570215,0,35241,Banks: Commercial and Savings,Sydney,0,Australia,Asia,Developed ,WBK   ,"Managing Director, Chief Executive Officer"
+Toronto-Dominion Bank,30174,6360.9,844193,0,81483,Banks: Commercial and Savings,"Toronto, Ontario",0,Canada,N. America,Developed ,TD    ,"Group President, Chief Executive Officer"
+Freddie Mac,63491,6376,1986050,871,5439,Diversified Financials,McLean,Virginia,U.S.,N. America,Developed ,FMCC  ,"Chief Executive Officer, Director"
+UBS,38511,6447.5,942160,0,60099,Banks: Commercial and Savings,Zurich,0,Switzerland,Europe,Developed ,UBS   ,"Group Chief Executive Officer, Director"
+Banco Santander,84885,6617.9,1455790,0,191038,Banks: Commercial and Savings,Madrid,0,Spain,Europe,Developed ,SAN   ,"Chief Executive Officer, Executive Vice President, Chief Financial Officer"
+Philip Morris International,26794,6873,33956,152193,80200,Miscellaneous,New York,New York,U.S.,N. America,Developed ,PM    ,Chief Executive Officer
+Amgen,21662,6939,71576,112761,17900,Pharmaceuticals,Thousand Oaks,California,U.S.,N. America,Developed ,AMGN  ,"Chairman, Chief Executive Officer"
+Pfizer,48851,6960,167460,183298,97900,Pharmaceuticals,New York,New York,U.S.,N. America,Developed ,PFE   ,"Chairman of the Board, Chief Executive Officer"
+Home Depot,88519,7009,42549,167181,385000,Specialty Retailers,Atlanta,Georgia,U.S.,N. America,Developed ,HD    ,"Chairman, Chief Executive Officer, President"
+Procter & Gamble,78756,7036,129495,222613,110000,Household and Personal Products,Cincinnati,Ohio,U.S.,N. America,Developed ,PG    ,0
+BMW Group,102248,7065,187015,0,122244,Motor Vehicles and Parts,Munich,0,Germany,Europe,Developed ,BAMXY ,"Chairman, Chief Executive Officer, Head"
+China National Petroleum,299271,7090.6,621242,0,1589508,Petroleum Refining,Beijing,0,China,Asia,Growth,  ,Chairman
+Mondelez International,29636,7267,62843,62472,99000,Food Consumer Products,Deerfield,Illinois,U.S.,N. America,Developed ,MDLZ  ,"Chairman, Chief Executive Officer"
+China Minsheng Banking,42449,7337.4,696176,0,59510,Banks: Commercial and Savings,Beijing,0,China,Asia,Growth,CMAKY ,"Vice Chairman, President"
+Allianz,122948,7339,922121,0,142459,Insurance: Property and Casualty (Stock),Munich,0,Germany,Europe,Developed ,AZSEY ,"Chief Executive Officer, Chairman, Chief Compliance Officer"
+United Continental Holdings,37864,7340,40861,21519,84000,Airlines,Chicago,Illinois,U.S.,N. America,Developed ,UAL   ,0
+Coca-Cola,44294,7351,90093,200845,123200,Beverages,Atlanta,Georgia,U.S.,N. America,Developed ,KO    ,"Chairman, Chief Executive Officer"
+Ford Motor,149558,7373,224925,53758,199000,Motor Vehicles and Parts,Dearborn,Michigan,U.S.,N. America,Developed ,F     ,"President, Chief Executive Officer"
+BNP Paribas,111531,7425.5,2166092,0,181551,Banks: Commercial and Savings,Paris,0,France,Europe,Developed ,BNPQY ,Chief Executive Officer
+Commonwealth Bank of Australia,37680,7536.8,671156,0,45948,Banks: Commercial and Savings,Sydney,0,Australia,Asia,Developed ,CMWAY ,"Managing Director, Chief Executive Officer"
+United Technologies,61047,7608,87484,83727,197200,Aerospace and Defense,Farmington,Connecticut,U.S.,N. America,Developed ,UTX   ,"President, Chief Executive Officer"
+American Airlines Group,40990,7610,48415,24730,118500,Airlines,Fort Worth,Texas,U.S.,N. America,Developed ,AAL   ,"Chief Executive Officer, Chairman"
+Dow Chemical,48778,7685,68026,56816,49495,Chemicals,Midland,Michigan,U.S.,N. America,Developed ,DOW   ,"President, Chairman, Chief Executive Officer"
+Itaú Unibanco Holding,55082,7721.3,322735,0,90320,Banks: Commercial and Savings,São Paulo,0,Brazil,Latin America  ,Growth,ITUB  ,"Vice Chairman, President"
+Mitsubishi UFJ Financial Group,47600,7925,2654413,0,110936,Banks: Commercial and Savings,Tokyo,0,Japan,Asia,Developed ,MTU   ,"President, Chief Executive Officer"
+Royal Bank of Canada,34795,7979.3,821134,0,72839,Banks: Commercial and Savings,"Toronto, Ontario",0,Canada,N. America,Developed ,RY    ,"President, Chief Executive Officer"
+Industrial Bank,46446,7989.1,816016,0,52016,Banks: Commercial and Savings,Fuzhou,0,China,Asia,Growth,0,Chairman
+Shanghai Pudong Development Bank,42030,8052.3,776819,0,48427,Banks: Commercial and Savings,Shanghai,0,China,Asia,Growth,0,Chairman of the Board
+Comcast,74510,8163,166574,149182,153000,Telecommunications,Philadelphia,Pennsylvania,U.S.,N. America,Developed ,CMCSA ,"Chairman, Chief Executive Officer"
+Anheuser-Busch InBev,43604,8273,134635,0,152321,Beverages,Leuven,0,Belgium,Europe,Developed ,BUD   ,Chief Executive Officer
+Twenty-First Century Fox,28987,8306,50051,53473,20500,Entertainment,New York,New York,U.S.,N. America,Developed ,FOXA  ,"Chairman, Chief Executive Officer"
+Siemens,87660,8338,134320,0,348000,"Electronics, Electrical Equip.",Munich,0,Germany,Europe,Developed ,SIEGY ,"President, Chief Executive Officer"
+Walt Disney,52465,8382,88182,162031,185000,Entertainment,Burbank,California,U.S.,N. America,Developed ,DIS   ,"Chairman, Chief Executive Officer"
+Ping An Insurance,110308,8625,733824,0,275011,"Insurance: Life, Health (stock)",Shenzhen,0,China,Asia,Growth,PNGAY ,"Chairman, Chief Executive Officer"
+Cisco Systems,49161,8981,113481,143265,71833,Network and Other Communications Equipment,San Jose,California,U.S.,N. America,Developed ,CSCO  ,0
+China Merchants Bank,48459,9180.8,843135,0,76192,Banks: Commercial and Savings,Shenzhen,0,China,Asia,Growth,CIHKY ,"President, Executive Director"
+Roche Group,52390,9212.4,75710,0,91747,Pharmaceuticals,Basel,0,Switzerland,Europe,Developed ,RHHBY ,Chief Executive Officer
+Daimler,165800,9344.5,235886,0,284015,Motor Vehicles and Parts,Stuttgart,0,Germany,Europe,Developed ,DDAIY ,"Chairman, Chief Executive Officer, President"
+Nestlé,92285,9423.4,123905,0,335000,Food Consumer Products,Vevey,0,Switzerland,Europe,Developed ,NSRGY ,"Chief Executive Officer, Nestle SA,  Director"
+Taiwan Semiconductor Manufacturing,26575,9541.5,50467,0,45272,Semiconductors and Other Electronic Components,Hsinchu,0,Taiwan,Asia,Growth,TSM   ,"President, Co-Chief Executive Officer"
+General Motors,152356,9687,194520,48543,215000,Motor Vehicles and Parts,Detroit,Michigan,U.S.,N. America,Developed ,GM    ,Chief Executive Officer
+Oracle,38226,9938,110903,169771,132000,Computer Software,Redwood City,California,U.S.,N. America,Developed ,ORCL  ,"Co-Chief Executive Officer, Director"
+China Mobile Communications,106761,10144.2,251113,0,436651,Telecommunications,Beijing,0,China,Asia,Growth,  ,"Executive Director, Chief Executive Officer"
+State Grid,329601,10201.4,478539,0,927839,Utilities,Beijing,0,China,Asia,Growth,  ,"President, Chief Executive Officer"
+Bank of Communications,57068,10586.2,1101910,0,93770,Banks: Commercial and Savings,Shanghai,0,China,Asia,Growth,BCMXY ,"Vice Chairman, Executive Director, President"
+Fannie Mae,110359,10954,3221917,1621,7300,Diversified Financials,Washington,District Of Columbia,U.S.,N. America,Developed ,FNMA  ,"President, Chief Executive Officer, Director"
+Intel,55355,11420,103065,152821,107300,Semiconductors and Other Electronic Components,Santa Clara,California,U.S.,N. America,Developed ,INTC  ,"Chief Executive Officer, Director"
+Korea Electric Power,51805,11751.7,149499,0,41949,Utilities,Jeollanam-do,0,South Korea,Asia,Growth,KEP   ,Chief Executive Officer
+Microsoft,93580,12193,176223,436831,118000,Computer Software,Redmond,Washington,U.S.,N. America,Developed ,MSFT  ,"Chief Executive Officer, Director"
+GlaxoSmithKline,36550,12867.2,78763,0,101255,Pharmaceuticals,Brentford,0,Britain,Europe,Developed ,GSK   ,"Chief Executive Officer, Director"
+Gazprom,99464,12882,233958,0,462400,Energy,Moscow,0,Russia,Russia / CIS ,Growth,OGZPY ,"Head, Department Management Committee, Chief Executive Officer"
+International Business Machines,82461,13190,110495,145525,411798,Information Technology Services,Armonk,New York,U.S.,N. America,Developed ,IBM   ,"Chairman, President, Chief Executive Officer"
+AT&T,146801,13345,402672,240943,281450,Telecommunications,Dallas,Texas,U.S.,N. America,Developed ,T     ,"Chairman, Chief Executive Officer"
+HSBC Holdings,89061,13522,2409656,0,264000,Banks: Commercial and Savings,London,0,Britain,Europe,Developed ,HSBC  ,"Group Chief Executive Officer, Director"
+Wal-Mart Stores,482130,14694,199581,215356,2300000,General Merchandisers,Bentonville,Arkansas,U.S.,N. America,Developed ,WMT   ,"President, Chief Executive Officer, Director"
+CK Hutchison Holdings,22715,15294.6,133285,0,270000,Specialty Retailers,Hong Kong,0,China,Asia,Growth,CKHUY ,Chairman
+Johnson & Johnson,70074,15409,133411,298563,127100,Pharmaceuticals,New Brunswick,New Jersey,U.S.,N. America,Developed ,JNJ   ,"Chairman of the Board, Chief Executive Officer"
+Bank of America Corp.,93056,15888,2144316,139603,213280,Banks: Commercial and Savings,Charlotte,North Carolina,U.S.,N. America,Developed ,BAC   ,"Chairman, Chief Executive Officer"
+Exxon Mobil,246204,16150,336758,347129,75600,Petroleum Refining,Irving,Texas,U.S.,N. America,Developed ,XOM   ,"Chairman, Chief Executive Officer"
+Alphabet,74989,16348,147461,525119,61814,Internet Services and Retailing,Mountain View,California,U.S.,N. America,Developed ,GOOGL ,"Chief Executive Officer, Director"
+Samsung Electronics,177440,16531.9,206585,0,319000,"Electronics, Electrical Equip.",Suwon,0,South Korea,Asia,Growth,SSNLF ,"Vice Chairman, Chief Executive Officer"
+Citigroup,88275,17242,1731210,122796,231000,Banks: Commercial and Savings,New York,New York,U.S.,N. America,Developed ,C     ,"Chief Executive Officer, Director"
+Novartis,51030,17783,131556,0,118700,Pharmaceuticals,Basel,0,Switzerland,Europe,Developed ,NVS   ,"Chief Executive Officer, Director"
+Verizon Communications,131620,17879,244640,220646,177700,Telecommunications,New York,New York,U.S.,N. America,Developed ,VZ    ,"Chairman, Chief Executive Officer"
+Gilead Sciences,32639,18108,51839,124437,8000,Pharmaceuticals,Foster City,California,U.S.,N. America,Developed ,GILD  ,0
+Toyota Motor,236592,19264.2,422029,0,348877,Motor Vehicles and Parts,Toyota,0,Japan,Asia,Developed ,TM    ,"President, Member of the Board"
+Wells Fargo,90033,22894,1787632,244568,264700,Banks: Commercial and Savings,San Francisco,California,U.S.,N. America,Developed ,WFC   ,"Chairman, Chief Executive Officer, President"
+Berkshire Hathaway,210821,24083,552257,350279,331000,Insurance: Property and Casualty (Stock),Omaha,Nebraska,U.S.,N. America,Developed ,BRKA  ,"Chairman of the Board, Chief Executive Officer"
+JPMorgan Chase & Co.,101006,24442,2351698,217353,234598,Banks: Commercial and Savings,New York,New York,U.S.,N. America,Developed ,JPM   ,"Chairman, Chief Executive Officer"
+Bank of China,122337,27185.5,2589565,0,310042,Banks: Commercial and Savings,Beijing,0,China,Asia,Growth,BACHY ,"Vice Chairman, Chief Executive Officer, President"
+Agricultural Bank of China,133419,28734.9,2739835,0,508726,Banks: Commercial and Savings,Beijing,0,China,Asia,Growth,ACGCY ,"Chairman, Chief Executive Officer"
+China Construction Bank,147910,36303.3,2825781,0,369183,Banks: Commercial and Savings,Beijing,0,China,Asia,Growth,CICHY ,"President, Chief Executive Officer"
+Industrial & Commercial Bank of China,167227,44098.2,3420257,0,466346,Banks: Commercial and Savings,Beijing,0,China,Asia,Growth,IDCBY ,President
+Apple,233715,53394,290479,604304,110000,"Computers, Office Equipment",Cupertino,California,U.S.,N. America,Developed ,AAPL  ,"Chief Executive Officer, Director"

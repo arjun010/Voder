@@ -1,0 +1,69 @@
+{
+    "Name" : {
+        "type":"nominal",
+        "isItemAttr" : "y"
+    },    
+    "Predominant Degree" : {
+        "type":"ordinal"
+    },
+    "Highest Degree" : {
+        "type":"ordinal"
+    },
+    "Control" : {
+        "type":"nominal"
+    },
+    "Region" : {
+        "type":"nominal"
+    },
+    "Locale" : {
+        "type":"nominal"  
+    },
+    "Admission Rate" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "ACT Median" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "SAT Average" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Average Cost" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Expenditure" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Average Faculty Salary" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Median Debt" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Average Age of Entry" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Average Family Income" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Median Family Income" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Mean Earnings" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    },
+    "Median Earnings" : {
+        "type":"quantitative",
+        "repeatedByRow" : "y"
+    }
+}

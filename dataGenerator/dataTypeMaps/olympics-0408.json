@@ -1,0 +1,33 @@
+{
+	"City" : {
+		"type":"nominal"
+	},
+	"Edition" : {
+		"type":"ordinal"
+	},
+	"Sport" : {
+		"type":"nominal"		
+	},
+	"Discipline" : {
+		"type":"nominal"
+	},
+	"Athlete" : {
+		"type":"nominal",
+		"isItemAttr" : "y"
+	},
+	"Country" : {
+		"type":"nominal"
+	},
+	"Gender" : {
+		"type":"nominal"
+	},
+	"Event" : {
+		"type":"nominal"
+	},
+	"Event_gender" : {
+		"type":"nominal"
+	},
+	"Medal" : {
+		"type":"nominal"
+	}
+}
