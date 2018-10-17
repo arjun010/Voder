@@ -100,6 +100,8 @@
             })
         }
 
+        utils.sortObj(reshapedDataList,'categoryLabel')
+
         return reshapedDataList;
     };
 

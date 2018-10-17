@@ -642,8 +642,17 @@
         mainG.append("g")
             .attr("class", "x axis")
             .attr("transform", "translate(0," + height + ")")
-            .call(xAxis)
-            .append("text")
+            .call(xAxis);            
+
+        mainG.select(".x.axis")
+            .selectAll("text")
+            .attr("class","xAxisLabel")
+            .attr("transform","rotate(-90)")
+            .style("text-anchor","end")
+            .attr("y", -5)
+            .attr("x", -10);
+
+        svg.append("text")
             .attr("class", "label")
             .attr("x", width-widthBuffer/2)
             .attr("y", -6)
@@ -661,10 +670,6 @@
                     return visObject.x.attribute;
                 }
             });
-
-        mainG.select(".x.axis")
-            .selectAll("text")
-            .attr("class","xAxisLabel");
 
         mainG.append("g")
             .attr("class", "y axis")
@@ -912,11 +917,15 @@
             //.attr("dy", ".35em")
             //.attr("transform", "rotate(-90)")
             .style("text-overflow", "ellipsis")
-            //.style("text-anchor", "end");
+            //.style("text-anchor", "end");            
 
         g.select(".axis--x")
             .selectAll("text")
-            .attr("class","xAxisLabel");
+            .attr("class","xAxisLabel")
+            .attr("y", -5)
+            .attr("x", -10)
+            .attr("transform", "rotate(-90)")
+            .style("text-anchor", "end");
 
         // text label for the x axis
         svg.append("text")

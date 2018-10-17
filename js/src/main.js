@@ -4,7 +4,7 @@
 (function(){
     main = {};    
 
-     var dataFileToUse = "dataFiles/csvs/cars.csv";
+     // var dataFileToUse = "dataFiles/csvs/cars.csv";
      // var dataFileToUse = "dataFiles/csvs/baseball-DARPA.csv";
     // var dataFileToUse = "dataFiles/csvs/global500.csv";
     // var dataFileToUse = "dataFiles/csvs/euro.csv";
@@ -12,15 +12,15 @@
      // var dataFileToUse = "dataFiles/csvs/olympics-0408.csv";
      // var dataFileToUse = "dataFiles/csvs/birdstrikes.csv";
      // var dataFileToUse = "dataFiles/csvs/colleges.csv";
-    // var dataFileToUse = "dataFiles/csvs/colleges-full.csv";
+    var dataFileToUse = "dataFiles/csvs/colleges-full.csv";
 
     globalVars.dataFactTierToShow = parseFloat($("#dataFactTierSelector").val());
 
     d3.csv(dataFileToUse,function(error,data){
         globalVars.dataList = data;
 
-        let mainDataMapFileUrl = "dataFiles/cars-mainDataMap.json";
-        let metadataMapFileUrl = "dataFiles/cars-metadataMap.json";
+        // let mainDataMapFileUrl = "dataFiles/cars-mainDataMap.json";
+        // let metadataMapFileUrl = "dataFiles/cars-metadataMap.json";
         // let mainDataMapFileUrl = "dataFiles/baseball-DARPA-mainDataMap.json";
         // let metadataMapFileUrl = "dataFiles/baseball-DARPA-metadataMap.json";
         // let mainDataMapFileUrl = "dataFiles/global500-mainDataMap.json";
@@ -35,8 +35,8 @@
         // let metadataMapFileUrl = "dataFiles/birdstrikes-metadataMap.json";
         // let mainDataMapFileUrl = "dataFiles/colleges-mainDataMap.json";
         // let metadataMapFileUrl = "dataFiles/colleges-metadataMap.json";
-        // let mainDataMapFileUrl = "dataFiles/colleges-full-mainDataMap.json";
-        // let metadataMapFileUrl = "dataFiles/colleges-full-metadataMap.json";
+        let mainDataMapFileUrl = "dataFiles/colleges-full-mainDataMap.json";
+        let metadataMapFileUrl = "dataFiles/colleges-full-metadataMap.json";
 
         $.when(
             $.getJSON(mainDataMapFileUrl, function(data) {
