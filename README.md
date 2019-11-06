@@ -9,7 +9,7 @@ Run a web server:
 python -m http.server 8000
 ```
 
-Go to http://localhost:8000/ to run the system (preloaded with the cars dataset)
+Go to http://localhost:8000/ to run the system (preloaded with the cars dataset).
 
 ## Generating data fact-related files for other csv datasets
 
