@@ -1,1 +1,3 @@
-dataFiles/*.json
+*.pyc
+.idea/
+.DS_Store
