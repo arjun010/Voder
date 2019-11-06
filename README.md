@@ -21,7 +21,7 @@ Go to http://localhost:8000/ to run the system (preloaded with the cars dataset)
 
 4. In `js/src/main.js`, update the paths to the data files passed to the variables `dataFileToUse`, `mainDataMapFileUrl`, and `metadataMapFileUrl` to point to the required csv file and the files generated in Step 4.
 
-5. Go to the root folder, and run a local server (`python -m SimpleHTTPServer 8000`) and go to http://localhost:8000/
+5. Go to the root folder, and run a local server (`python -m http.server 8000`) and go to http://localhost:8000/
 
 ## Citation
 
