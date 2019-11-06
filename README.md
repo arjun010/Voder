@@ -1,7 +1,9 @@
 # Voder
-Code for Voder
+*Augmenting Visualizations with Interactive Data Facts to Facilitate Interpretation and Communication*
 
-#### Instructions for running locally (Temporary)
+## Instructions for running locally (Temporary)
+
+#### Generating data fact-related files from csv datasets
 
 1. Add your dataset in a csv format in the folders `dataGenerator/csvs` and `dataFiles/csvs` (already has example datasets to play with)
 
