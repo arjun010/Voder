@@ -11,7 +11,7 @@ python -m http.server 8000
 
 Go to http://localhost:8000/ to run the system (preloaded with the cars dataset)
 
-## Generating data facts-related files for other csv datasets
+## Generating data fact-related files for other csv datasets
 
 1. Add your dataset in a csv format in the folders `dataGenerator/csvs` and `dataFiles/csvs` (already has sample datasets)
 
