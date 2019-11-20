@@ -392,7 +392,7 @@
             .attr("y", 5)
             .attr("dy", ".35em")
             .style("text-anchor", "start")
-            .style("font-size",7)
+            .style("font-size",12)
             .style("font-weight","bold")
             .text(function() { 
                 return visObject.color.attribute;
@@ -416,7 +416,7 @@
             .attr("y", 5)
             .attr("dy", ".35em")
             .style("text-anchor", "start")
-            .style("font-size",7)
+            .style("font-size",10)
             .text(function(d) { return d; })
             .append("title")
             .text(function(d){
