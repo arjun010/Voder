@@ -1,0 +1,101 @@
+id,party,gender,first_name,last_name,occupation,education,religion,age,political_experience,policy_strength_legalize_medical_marijuana,policy_strength_ban_abortion_after_6_weeks,policy_strength_budget_for_free_school_lunch_program,policy_strength_increase_gun_control_legislation,policy_strength_ban_alcohol_sales_on_sundays,policy_strength_increase_budget_for_medicare_coverage,policy_strength_increase_budget_for_veterans_affairs
+p01,Democrat,Male,Chester,Perrins,Financier,Master Degree,Christian,42,9,2,-1,3,2,-2,3,3
+p02,Democrat,Female,Suzan,Baldwin,Engineer,PhD,Jewish,45,5,3,-2,1,2,-1,0,3
+p03,Republican,Male,Elmer,Clemons,Career Politician,Master Degree,Christian,44,9,-1,2,-1,-2,2,-2,-2
+p04,Democrat,Male,Jesse,Enright,Lawyer,Law Degree,Christian,55,8,1,-1,2,1,-2,1,2
+p05,Democrat,Male,Scott,Olivarez,Lawyer,Law Degree,Christian,43,2,2,-1,2,3,-2,3,1
+p06,Republican,Male,Robert,Blair,Judge,Law Degree,Muslim,50,9,-2,1,-2,0,2,-1,0
+p07,Democrat,Male,Christopher,Labrum,Educator,Law Degree,Christian,58,8,1,-3,3,2,-1,1,3
+p08,Democrat,Male,Ronnie,Black,Educator,Bachelor Degree,Christian,57,12,1,-3,1,3,-1,2,2
+p09,Democrat,Male,Steve,Bragg,Career Politician,Master Degree,Christian,46,5,2,-3,1,1,-1,2,2
+p10,Republican,Male,Peter,Powell,Business,Associate Degree,Christian,77,10,-2,3,-2,-3,2,1,-3
+p11,Democrat,Male,Kevin,Hutchinson,Career Politician,Master Degree,Christian,52,6,1,-1,1,1,-1,2,2
+p12,Democrat,Female,Sophia,Crandle,Business,Master Degree,Christian,61,8,2,-3,1,3,-3,2,2
+p13,Republican,Male,Stanley,Boll,Judge,Law Degree,Christian,64,6,1,2,-1,-2,3,-2,-1
+p14,Republican,Male,Michael,Deleon,Educator,Master Degree,Christian,53,11,-2,2,-2,-3,2,-1,-2
+p15,Republican,Male,Dewitt,Williams,Career Politician,Bachelor Degree,Christian,51,12,-2,3,-3,-2,2,-1,-2
+p16,Democrat,Male,Terry,Weiker,Career Politician,Master Degree,Christian,57,5,3,-1,2,0,-1,1,2
+p17,Republican,Male,Wilber,Forrest,Financier,Master Degree,Christian,65,11,-2,1,-2,-1,2,-3,-2
+p18,Republican,Male,George,Salvemini,Educator,Medical Degree,Christian,54,9,-3,1,-3,-2,3,-2,-1
+p19,Republican,Male,David,Price,Career Politician,Law Degree,Christian,63,11,-1,3,-2,-2,1,-2,-1
+p20,Democrat,Female,Tresa,Burrowes,Career Politician,Law Degree,Christian,75,6,1,-2,2,2,-3,1,3
+p21,Democrat,Female,Elizabeth,Mcmorris,Lawyer,Law Degree,Christian,76,5,3,-1,1,3,-3,3,2
+p22,Republican,Male,Anthony,Kane,Engineer,PhD,Christian,74,9,0,2,-2,-1,1,-2,-1
+p23,Democrat,Male,Benny,Burns,Business,Bachelor Degree,Christian,45,15,3,-2,2,2,-3,1,3
+p24,Democrat,Female,Barbara,Stagliano,Career Politician,Bachelor Degree,Christian,63,14,2,0,1,3,-2,2,3
+p25,Republican,Male,Jonathan,Kerns,Career Politician,Law Degree,Christian,74,7,-2,1,-1,-2,1,-2,-2
+p26,Republican,Male,Paul,Carlile,Business,Master Degree,Christian,46,9,-1,3,-3,-3,3,-3,-1
+p27,Republican,Male,Myron,Madera,Educator,Bachelor Degree,Christian,44,11,-2,3,-1,-2,3,-1,-1
+p28,Democrat,Female,Vera,Garcia,Career Politician,Law Degree,Christian,59,7,2,-1,1,3,-1,2,1
+p29,Democrat,Male,Robert,Rodriquez,Lawyer,Law Degree,Christian,46,8,2,-2,2,0,-2,3,1
+p30,Democrat,Male,John,Johnson,Career Politician,Law Degree,Christian,53,12,2,-3,2,2,-2,3,1
+p31,Republican,Male,Michael,Whitcomb,Business,Law Degree,Christian,78,9,-2,2,-3,-1,2,-2,-1
+p32,Republican,Male,Desmond,Collins,Financier,Master Degree,Christian,58,7,-2,2,-3,-1,2,-2,-1
+p33,Republican,Male,Garret,Moran,Doctor,Medical Degree,Christian,48,5,-2,2,-3,-2,2,-2,-1
+p34,Democrat,Male,James,Horn,Judge,Law Degree,Christian,36,7,2,-2,3,3,-1,1,1
+p35,Democrat,Male,Thomas,Tran,Lawyer,Law Degree,Christian,49,7,2,-3,1,2,-3,2,1
+p36,Republican,Male,Archie,Metcalf,Judge,Law Degree,Christian,54,6,-2,2,-3,-2,1,-1,-1
+p37,Republican,Male,Charles,Torbett,Lawyer,Law Degree,Christian,55,6,-2,1,-1,-1,1,-2,-2
+p38,Democrat,Male,Darrell,Langford,Career Politician,Law Degree,Christian,58,9,2,-1,3,1,-1,1,3
+p39,Republican,Male,Martin,Robinson,Career Politician,Law Degree,Christian,60,8,-2,2,-3,1,1,-3,-1
+p40,Republican,Male,Joseph,Jennings,Lawyer,Law Degree,Jewish,64,14,-1,2,-2,-2,2,-3,-1
+p41,Democrat,Male,Samuel,Buchheit,Lawyer,Law Degree,Christian,66,3,1,-1,2,2,-2,1,3
+p42,Republican,Male,Travis,Ready,Career Politician,Law Degree,Christian,52,10,-3,3,-1,-2,2,-1,-3
+p43,Republican,Male,Carlos,Fagundes,Educator,Medical Degree,Christian,59,6,-2,2,-3,-3,3,-3,-3
+p44,Democrat,Female,Mary,Hardy,Business,Master Degree,Christian,65,9,2,-2,3,1,-3,3,2
+p45,Republican,Male,Michael,Phillips,Business,Bachelor Degree,Christian,37,10,-2,2,-2,-1,1,-2,-2
+p46,Republican,Male,Douglas,Schulte,Engineer,PhD,Christian,48,9,-3,1,-2,-3,2,-2,-2
+p47,Republican,Male,Clyde,Hill,Business,Associate Degree,Christian,53,9,-1,2,-2,-2,3,-3,-2
+p48,Democrat,Female,Judy,Davis,Educator,Master Degree,Christian,64,3,3,-1,1,0,-2,3,2
+p49,Republican,Male,John,Ramirez,Business,Associate Degree,Christian,65,8,-1,2,-1,-2,1,-2,-3
+p50,Democrat,Male,Kenneth,Luthi,Lawyer,Law Degree,Christian,60,3,2,-1,0,2,-3,1,2
+p51,Democrat,Male,Jeffrey,Torrey,Business,Bachelor Degree,Christian,59,7,1,-1,2,2,0,1,3
+p52,Democrat,Male,Thomas,Standley,Career Politician,Master Degree,Unaffiliated,40,10,2,-2,1,2,-1,2,3
+p53,Republican,Male,Dylan,Holt,Career Politician,Master Degree,Christian,59,12,-2,1,-2,-1,1,-2,-2
+p54,Democrat,Male,Lloyd,Powell,Engineer,PhD,Christian,58,6,1,-1,1,2,-2,2,2
+p55,Republican,Male,Robert,Vogel,Business,Bachelor Degree,Christian,45,9,-2,3,-3,-3,2,-2,-1
+p56,Republican,Male,Christopher,Cupit,Lawyer,Law Degree,Jewish,61,10,0,3,-2,-3,1,-1,-1
+p57,Republican,Male,Robert,Valadez,Judge,Law Degree,Christian,60,11,-2,3,-1,-1,2,-2,-2
+p58,Democrat,Male,Bill,Himes,Lawyer,Law Degree,Christian,52,9,2,0,2,2,-2,2,3
+p59,Republican,Male,Juan,Jackson,Doctor,Medical Degree,Christian,47,14,-2,2,-3,-3,3,-2,-2
+p60,Republican,Male,William,Fan,Career Politician,Master Degree,Christian,63,12,-1,1,-2,-3,3,-1,0
+p61,Democrat,Male,Mark,Olivo,Lawyer,Law Degree,Christian,76,3,3,-1,2,3,-3,3,1
+p62,Democrat,Female,Tara,Bohr,Career Politician,Bachelor Degree,Christian,66,5,1,-1,1,0,-3,0,2
+p63,Republican,Male,Clinton,Wall,Business,Bachelor Degree,Christian,54,5,-1,3,-3,-1,3,-2,-2
+p64,Republican,Male,Johnny,Clark,Business,Law Degree,Christian,65,12,-2,2,-3,1,2,-3,-2
+p65,Democrat,Female,Ernestine,Livengood,Educator,Master Degree,Christian,67,8,2,-1,2,2,-2,2,3
+p66,Democrat,Female,Lynda,Price,Business,Associate Degree,Jewish,64,14,2,-1,1,0,-2,2,2
+p67,Republican,Male,Harold,Roberts,Financier,Law Degree,Christian,58,13,-2,1,0,-2,2,-2,-3
+p68,Republican,Male,Joel,Hoffman,Financier,Law Degree,Christian,63,9,-2,2,-2,-2,2,-2,-1
+p69,Republican,Male,Richard,Youd,Business,Master Degree,Christian,60,18,-2,2,-3,-2,1,-2,-2
+p70,Democrat,Male,Raymond,Ragsdale,Career Politician,Master Degree,Christian,72,7,2,-2,2,2,-2,2,1
+p71,Republican,Male,Cleveland,Stockman,Career Politician,Bachelor Degree,Christian,63,12,-1,1,-3,-2,0,-2,-3
+p72,Democrat,Male,Ellis,Campbell,Business,Bachelor Degree,Jewish,56,6,2,-2,2,2,-1,2,1
+p73,Democrat,Male,Hector,Carraway,Career Politician,Master Degree,Christian,57,2,2,-1,3,3,0,1,1
+p74,Democrat,Male,Joseph,Kurylo,Farmer,High School,Christian,58,9,3,-2,2,2,-1,2,-1
+p75,Republican,Male,John,Farina,Educator,Master Degree,Christian,56,15,-1,2,-2,-3,2,-3,-2
+p76,Republican,Male,Nathaniel,Aguirre,Business,Bachelor Degree,Christian,54,5,-3,1,-2,-1,2,-2,-1
+p77,Democrat,Male,Jimmy,Horrigan,Business,Bachelor Degree,Christian,74,10,1,-2,1,2,-1,2,2
+p78,Democrat,Female,Megan,Dye,Business,Bachelor Degree,Christian,51,8,1,0,1,1,-2,2,2
+p79,Democrat,Male,Maurice,Trevino,Educator,Master Degree,Hindu,56,13,3,-2,2,2,0,1,1
+p80,Republican,Male,Marcel,Mack,Educator,Bachelor Degree,Christian,54,5,-3,2,-1,-1,2,-2,-2
+p81,Democrat,Male,Tyrone,Sadowski,Business,Law Degree,Christian,51,9,3,-3,2,0,-2,2,2
+p82,Democrat,Male,David,Gatewood,Lawyer,Law Degree,Mormon,58,8,2,-2,3,2,-1,2,2
+p83,Republican,Male,Kenneth,Ray,Farmer,High School,Jewish,58,5,-2,3,0,-2,2,-3,-3
+p84,Democrat,Male,Matthew,Williams,Business,Bachelor Degree,Mormon,65,4,2,-1,2,2,-2,3,3
+p85,Republican,Male,Frankie,Pack,Career Politician,Law Degree,Christian,78,9,-1,2,-2,-1,1,-2,-2
+p86,Republican,Male,Anthony,Thompson,Educator,Master Degree,Jewish,56,13,-2,1,-1,-2,2,-2,-1
+p87,Republican,Male,Tim,Guttirez,Military,Bachelor Degree,Christian,64,15,-2,1,-2,-2,1,-1,0
+p88,Democrat,Male,John,Knight,Farmer,High School,Mormon,63,5,2,-1,2,2,-2,2,2
+p89,Republican,Male,Dale,Draper,Business,Bachelor Degree,Christian,59,6,-2,-1,-3,-3,2,-2,-3
+p90,Republican,Female,Tracy,Boulerice,Business,Bachelor Degree,Mormon,61,11,-1,2,-2,-2,3,-1,-2
+p91,Democrat,Male,Warren,Smith,Financier,Bachelor Degree,Christian,65,13,2,-2,2,2,-1,1,2
+p92,Republican,Male,Christopher,Goodman,Judge,Law Degree,Jewish,63,5,-2,-1,0,-2,2,-1,-1
+p93,Democrat,Male,Otis,Mcallen,Judge,Law Degree,Christian,54,9,1,-2,0,2,-2,2,2
+p94,Democrat,Male,Pedro,Kitchens,Farmer,High School,Christian,46,8,2,-1,1,0,-2,2,2
+p95,Democrat,Male,Jeffrey,Thompson,Judge,Law Degree,Christian,49,8,1,-1,3,1,-2,2,2
+p96,Republican,Male,Rocky,Pelletier,Business,Associate Degree,Christian,55,8,-2,3,-2,-2,3,-2,0
+p97,Democrat,Male,Scott,Mcdaniel,Judge,Law Degree,Christian,53,12,2,-1,1,1,-2,1,2
+p98,Republican,Male,George,Houser,Business,Master Degree,Christian,69,8,-2,2,-3,-2,1,-2,-2
+p99,Republican,Male,Terrence,Rodriguez,Career Politician,Master Degree,Christian,39,7,-1,2,-2,-2,2,-1,-1
+p100,Republican,Male,Jeffrey,Gohn,Doctor,Medical Degree,Christian,63,7,-1,3,-1,-2,1,-2,-3

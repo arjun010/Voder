@@ -106,6 +106,8 @@ select{
     background-color: white;
     border: 2px solid darkgray;
     cursor: pointer;
+    width: 99%;
+    font-size: small;
 }
 
 #imFeelingLuckyButton{

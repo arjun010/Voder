@@ -1173,11 +1173,13 @@
 
     $('input[type=radio][name=modeSelectionRadio]').change(function() {
         if(this.value=="explore"){
+            $("body").css("overflow-y","hidden");
             $("#presentModeContainer").addClass("d-none");
             $("#exploreModeContainer").removeClass("d-none");
 
             main.updateActiveVisDiv(globalVars.activeVisObject);
         }else if(this.value=="present"){
+            $("body").css("overflow-y","auto");
             $("#exploreModeContainer").addClass("d-none");
             $("#presentModeContainer").removeClass("d-none");
             let presentModeLayout = $("input[name='presentModeLayoutOption']:checked").val();
