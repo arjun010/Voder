@@ -29,4 +29,4 @@ Go to http://localhost:8000/ to run the system (preloaded with the cars dataset)
 Arjun Srinivasan, Steven M. Drucker, Alex Endert, John Stasko<br/>
 *IEEE Transactions on Visualization and Computer Graphics (TVCG), Jan 2019*<br/>
 
-[project]:https://arjun010.github.io/projects/voder.html
+[project]:https://arjun010.github.io/individual-projects/voder.html
